@@ -1,0 +1,2746 @@
+mp-pt	item-code	treatment-of-code
+aciclovir	1003T	5936
+aciclovir	1007B	5942
+aciclovir	1052J	5967
+aciclovir	1052J	5959
+thiamine	1070H	5139
+cyproterone	1269T	5532
+omeprazole	1326T	8775
+omeprazole	1326T	8774
+omeprazole	1327W	8780
+omeprazole	1327W	8866
+tetrabenazine	1330B	5340
+flutamide	1417N	5816
+ticagrelor	1418P	5746
+fluconazole	1471K	6002
+fluconazole	1471K	5978
+fluconazole	1471K	6023
+fluconazole	1471K	5989
+fluconazole	1471K	6030
+fluconazole	1471K	7898
+fluconazole	1472L	6002
+fluconazole	1472L	5978
+fluconazole	1472L	6023
+fluconazole	1472L	5989
+fluconazole	1472L	6030
+fluconazole	1472L	7898
+fluconazole	1475P	6002
+fluconazole	1475P	5978
+fluconazole	1475P	6023
+fluconazole	1475P	5989
+fluconazole	1475P	6030
+fluconazole	1475P	7898
+aciclovir	1555W	5936
+loperamide	1571Q	6364
+ketoconazole	1574W	6434
+ondansetron	1594X	10498
+ondansetron	1595Y	10498
+methadone	1606M	10745
+methadone	1606M	10747
+methadone	1606M	10751
+methadone	1609Q	10745
+methadone	1609Q	10747
+methadone	1609Q	10751
+morphine	1653B	10755
+morphine	1653B	10748
+morphine	1653B	10752
+morphine	1654C	10755
+morphine	1654C	10748
+morphine	1654C	10752
+morphine	1655D	10755
+morphine	1655D	10748
+morphine	1655D	10752
+morphine	1656E	10755
+morphine	1656E	10748
+morphine	1656E	10752
+naproxen	1658G	4159
+naproxen	1658G	4124
+olsalazine	1728Y	4824
+perhexiline	1822X	5592
+gabapentin	1834M	4928
+gabapentin	1835N	4928
+risperidone	1842Y	6898
+risperidone	1842Y	6899
+risperidone	1846E	5903
+quinine	1975Y	5633
+acitretin	2019G	5789
+acitretin	2019G	5727
+acitretin	2020H	5789
+acitretin	2020H	5727
+budesonide	2065Q	6340
+budesonide	2066R	6340
+sevelamer	2142R	5491
+lansoprazole	2240X	8775
+lansoprazole	2240X	8774
+lansoprazole	2241Y	8780
+famciclovir	2274Q	5937
+liothyronine	2318B	6382
+liothyronine	2318B	6410
+liothyronine	2318B	6475
+carmellose sodium	2324H	6172
+carmellose sodium	2338C	6172
+calcitriol	2502Q	5401
+calcitriol	2502Q	5255
+calcitriol	2502Q	5089
+calcitriol	2502Q	5114
+calcitriol	2502Q	5402
+tramadol	2527B	10755
+tramadol	2527B	10748
+tramadol	2527B	10752
+isotretinoin	2549E	5224
+isotretinoin	2591J	5224
+isotretinoin	2592K	5224
+vigabatrin	2667J	4929
+vigabatrin	2668K	4929
+protein hydrolysate formula with medium chain triglycerides	2676W	6174
+protein hydrolysate formula with medium chain triglycerides	2676W	6193
+protein hydrolysate formula with medium chain triglycerides	2676W	6204
+protein hydrolysate formula with medium chain triglycerides	2676W	6137
+protein hydrolysate formula with medium chain triglycerides	2676W	6182
+protein hydrolysate formula with medium chain triglycerides	2676W	6194
+protein hydrolysate formula with medium chain triglycerides	2676W	6157
+protein hydrolysate formula with medium chain triglycerides	2676W	6205
+protein hydrolysate formula with medium chain triglycerides	2676W	6195
+protein hydrolysate formula with medium chain triglycerides	2676W	6158
+protein hydrolysate formula with medium chain triglycerides	2676W	6166
+protein hydrolysate formula with medium chain triglycerides	2676W	6148
+protein hydrolysate formula with medium chain triglycerides	2676W	6138
+protein hydrolysate formula with medium chain triglycerides	2676W	6206
+morphine	2839K	10755
+morphine	2839K	10748
+morphine	2839K	10752
+morphine	2840L	10755
+morphine	2840L	10748
+morphine	2840L	10752
+morphine	2841M	10755
+morphine	2841M	10748
+morphine	2841M	10752
+lamotrigine	2848X	11081
+lamotrigine	2849Y	11081
+lamotrigine	2850B	11081
+lamotrigine	2851C	11081
+phosphorus	2946C	5089
+phosphorus	2946C	5114
+phosphorus	2946C	5095
+phosphorus	2946C	5123
+calcium	3117C	4586
+medium chain triglycerides	3128P	6181
+medium chain triglycerides	3128P	6134
+medium chain triglycerides	3128P	6164
+medium chain triglycerides	3128P	6203
+medium chain triglycerides	3128P	6155
+medium chain triglycerides	3128P	6135
+medium chain triglycerides	3128P	6146
+risperidone	3169T	4246
+risperidone	3169T	5907
+risperidone	3170W	4246
+risperidone	3170W	5907
+risperidone	3171X	4246
+risperidone	3171X	5907
+risperidone	3172Y	4246
+risperidone	3172Y	5907
+olanzapine	3381Y	5856
+olanzapine	3381Y	5869
+olanzapine	3382B	5856
+olanzapine	3382B	5869
+olanzapine	3384D	5856
+olanzapine	3384D	5869
+olanzapine	3385E	5856
+olanzapine	3385E	5869
+linagliptin	3387G	6346
+linagliptin	3387G	6363
+linagliptin	3387G	6376
+linagliptin	3387G	7505
+vildagliptin	3415R	6346
+vildagliptin	3415R	6363
+vildagliptin	3415R	6376
+apixaban	5054B	4382
+apixaban	5054B	4409
+apixaban	5061J	4402
+paliperidone	5100K	4246
+paliperidone	5102M	4246
+paliperidone	5103N	4246
+paliperidone	5107T	4246
+paliperidone	5109X	4246
+denosumab	5110Y	4158
+denosumab	5110Y	4150
+asenapine	5140M	4246
+asenapine	5140M	5773
+asenapine	5140M	5719
+asenapine	5141N	4246
+asenapine	5141N	5773
+asenapine	5141N	5719
+magnesium	5146W	5506
+magnesium	5146W	5466
+fingolimod	5262Y	10162
+fingolimod	5262Y	10172
+fentanyl	5265D	10745
+fentanyl	5265D	10747
+fentanyl	5265D	10751
+fentanyl	5277R	10745
+fentanyl	5277R	10747
+fentanyl	5277R	10751
+fentanyl	5278T	10745
+fentanyl	5278T	10747
+fentanyl	5278T	10751
+fentanyl	5279W	10745
+fentanyl	5279W	10747
+fentanyl	5279W	10751
+fentanyl	5280X	10745
+fentanyl	5280X	10747
+fentanyl	5280X	10751
+fentanyl	5437E	10745
+fentanyl	5437E	10747
+fentanyl	5437E	10751
+fentanyl	5438F	10745
+fentanyl	5438F	10747
+fentanyl	5438F	10751
+fentanyl	5439G	10745
+fentanyl	5439G	10747
+fentanyl	5439G	10751
+fentanyl	5440H	10745
+fentanyl	5440H	10747
+fentanyl	5440H	10751
+fentanyl	5441J	10745
+fentanyl	5441J	10747
+fentanyl	5441J	10751
+tobramycin	5442K	5520
+fluconazole	5446P	6006
+fluconazole	5446P	6045
+fluconazole	5446P	6031
+fluconazole	5446P	6046
+fluconazole	5446P	6032
+fluconazole	5446P	7934
+denosumab	5457F	6548
+denosumab	5457F	6524
+quetiapine	5458G	4246
+quetiapine	5458G	5611
+quetiapine	5458G	5639
+dutasteride	5468T	6202
+varenicline	5469W	6885
+ondansetron	5472B	10498
+ondansetron	5473C	10498
+vildagliptin + metformin	5474D	6333
+vildagliptin + metformin	5474D	6357
+vildagliptin + metformin	5474D	6344
+vildagliptin + metformin	5474D	6443
+vildagliptin + metformin	5475E	6333
+vildagliptin + metformin	5475E	6357
+vildagliptin + metformin	5475E	6344
+vildagliptin + metformin	5475E	6443
+vildagliptin + metformin	5476F	6333
+vildagliptin + metformin	5476F	6357
+vildagliptin + metformin	5476F	6344
+vildagliptin + metformin	5476F	6443
+valaciclovir	5480K	5940
+dutasteride + tamsulosin	5490Y	6189
+apixaban	5500L	4381
+apixaban	5500L	4359
+carbomer-974P	5502N	6172
+carbomer-980	5504Q	6172
+carmellose sodium	5505R	6172
+carmellose sodium	5506T	6172
+dextran-70 + hypromellose	5521N	6172
+soy lecithin + tocopherol + vitamin A	5545W	6172
+oxycodone + naloxone	8000C	10755
+oxycodone + naloxone	8000C	10748
+oxycodone + naloxone	8000C	10752
+famciclovir	8002E	5951
+pantoprazole	8007K	8775
+pantoprazole	8007K	8774
+pantoprazole	8008L	8780
+pantoprazole	8008L	8866
+morphine	8035X	10755
+morphine	8035X	10748
+morphine	8035X	10752
+lamotrigine	8063J	11081
+valaciclovir	8064K	5962
+valaciclovir	8064K	5968
+olsalazine	8086N	4824
+famciclovir	8092X	5937
+bicalutamide	8094B	5729
+risperidone	8100H	4246
+risperidone	8100H	5907
+interferon beta-1b	8101J	7695
+interferon beta-1b	8101J	6860
+valaciclovir	8133C	5960
+valaciclovir	8134D	5961
+morphine	8146R	10755
+morphine	8146R	10748
+morphine	8146R	10752
+topiramate	8163P	5516
+topiramate	8163P	5325
+topiramate	8164Q	5516
+topiramate	8164Q	5325
+topiramate	8165R	5516
+topiramate	8165R	5325
+topiramate	8166T	5516
+olanzapine	8170B	5856
+olanzapine	8170B	5869
+olanzapine	8185T	5856
+olanzapine	8185T	5869
+olanzapine	8186W	5856
+olanzapine	8186W	5869
+olanzapine	8187X	5856
+olanzapine	8187X	5869
+itraconazole	8196J	6022
+itraconazole	8196J	6005
+itraconazole	8196J	6057
+itraconazole	8196J	5988
+itraconazole	8196J	6037
+itraconazole	8196J	6016
+itraconazole	8196J	6035
+famciclovir	8217L	5971
+tiagabine	8221Q	4928
+tiagabine	8222R	4928
+tiagabine	8223T	4928
+ondansetron	8233H	4102
+protein hydrolysate formula with medium chain triglycerides	8259Q	6174
+protein hydrolysate formula with medium chain triglycerides	8259Q	6193
+protein hydrolysate formula with medium chain triglycerides	8259Q	6204
+protein hydrolysate formula with medium chain triglycerides	8259Q	6137
+protein hydrolysate formula with medium chain triglycerides	8259Q	6182
+protein hydrolysate formula with medium chain triglycerides	8259Q	6194
+protein hydrolysate formula with medium chain triglycerides	8259Q	6157
+protein hydrolysate formula with medium chain triglycerides	8259Q	6205
+protein hydrolysate formula with medium chain triglycerides	8259Q	6195
+protein hydrolysate formula with medium chain triglycerides	8259Q	6158
+protein hydrolysate formula with medium chain triglycerides	8259Q	6166
+protein hydrolysate formula with medium chain triglycerides	8259Q	6148
+protein hydrolysate formula with medium chain triglycerides	8259Q	6138
+dextran-70 + hypromellose	8299T	6172
+atovaquone	8300W	5609
+morphine	8305D	10755
+morphine	8305D	10748
+morphine	8305D	10752
+morphine	8306E	10755
+morphine	8306E	10748
+morphine	8306E	10752
+omeprazole	8331L	8775
+omeprazole	8331L	8774
+omeprazole	8333N	8780
+omeprazole	8333N	8866
+morphine	8349K	10755
+morphine	8349K	10748
+morphine	8349K	10752
+tirofiban	8350L	5782
+tirofiban	8350L	5809
+tirofiban	8350L	5691
+acamprosate	8357W	5366
+ivermectin	8359Y	4319
+raloxifene	8363E	6314
+naltrexone	8370M	13967
+topiramate	8371N	5173
+topiramate	8372P	5173
+oxycodone	8385H	10755
+oxycodone	8385H	10748
+oxycodone	8385H	10752
+oxycodone	8386J	10755
+oxycodone	8386J	10748
+oxycodone	8386J	10752
+oxycodone	8387K	10755
+oxycodone	8387K	10748
+oxycodone	8387K	10752
+oxycodone	8388L	10755
+oxycodone	8388L	10748
+oxycodone	8388L	10752
+gabapentin	8389M	4928
+ondansetron	8412R	10498
+ondansetron	8413T	10498
+fluticasone propionate + salmeterol	8430Q	4930
+fluticasone propionate + salmeterol	8431R	4930
+fluticasone propionate + salmeterol	8432T	4930
+fluticasone propionate + salmeterol	8432T	10121
+olanzapine	8433W	5856
+olanzapine	8433W	5869
+olanzapine	8434X	5856
+olanzapine	8434X	5869
+ursodeoxycholic acid	8448P	9032
+quetiapine	8456C	7916
+quetiapine	8456C	7927
+quetiapine	8456C	7893
+quetiapine	8457D	4246
+quetiapine	8457D	5611
+quetiapine	8457D	5639
+quetiapine	8458E	4246
+quetiapine	8458E	5611
+quetiapine	8458E	5639
+albendazole	8459F	5607
+bupropion	8465M	6882
+morphine	8489T	10755
+morphine	8489T	10748
+morphine	8489T	10752
+morphine	8490W	10755
+morphine	8490W	10748
+morphine	8490W	10752
+morphine	8491X	10755
+morphine	8491X	10748
+morphine	8491X	10752
+morphine	8492Y	10755
+morphine	8492Y	10748
+morphine	8492Y	10752
+morphine	8493B	10755
+morphine	8493B	10748
+morphine	8493B	10752
+morphine	8494C	10755
+morphine	8494C	10748
+morphine	8494C	10752
+albendazole	8503M	5680
+gabapentin	8505P	4928
+rabeprazole	8508T	8780
+rabeprazole	8509W	8775
+rabeprazole	8509W	8774
+carbomer-974P	8514D	6172
+fluticasone propionate	8516F	14180
+fluticasone propionate + salmeterol	8517G	4930
+fluticasone propionate + salmeterol	8518H	4930
+fluticasone propionate + salmeterol	8519J	4930
+fluticasone propionate + salmeterol	8519J	10121
+topiramate	8520K	5173
+tramadol	8523N	10755
+tramadol	8523N	10748
+tramadol	8523N	10752
+tramadol	8524P	10755
+tramadol	8524P	10748
+tramadol	8524P	10752
+tramadol	8525Q	10755
+tramadol	8525Q	10748
+tramadol	8525Q	10752
+gabapentin	8559L	4928
+carbomer-980	8578L	6172
+quetiapine	8580N	4246
+quetiapine	8580N	5611
+quetiapine	8580N	5639
+oxcarbazepine	8584T	5183
+oxcarbazepine	8585W	5183
+oxcarbazepine	8586X	5183
+whey protein formula supplemented with amino acids, vitamins and minerals, and low in protein, phosphate, potassium and lactose	8587Y	6190
+oxcarbazepine	8588B	5183
+amisulpride	8594H	4246
+amisulpride	8595J	4246
+amisulpride	8596K	4246
+esomeprazole	8600P	8780
+esomeprazole	8600P	8827
+mesalazine	8616L	4888
+mesalazine	8617M	4888
+budesonide + formoterol (eformoterol)	8625Y	7970
+montelukast	8627C	6666
+montelukast	8628D	6674
+montelukast	8628D	7781
+levetiracetam	8654L	11116
+levetiracetam	8655M	11116
+levetiracetam	8656N	11116
+desmopressin	8662X	5266
+desmopressin	8663Y	5413
+desmopressin	8663Y	5295
+pioglitazone	8694N	4363
+pioglitazone	8694N	4388
+pioglitazone	8694N	4364
+pioglitazone	8695P	4363
+pioglitazone	8695P	4388
+pioglitazone	8695P	4364
+pioglitazone	8696Q	4363
+pioglitazone	8696Q	4388
+pioglitazone	8696Q	4364
+bupropion	8710K	6881
+desmopressin	8711L	5266
+desmopressin	8712M	5342
+desmopressin	8712M	5267
+aripiprazole	8717T	4246
+aripiprazole	8718W	4246
+aripiprazole	8719X	4246
+aripiprazole	8720Y	4246
+granisetron	8730L	4092
+amisulpride	8736T	4246
+mesalazine	8753Q	4888
+ezetimibe	8757X	7996
+ezetimibe	8757X	7966
+ezetimibe	8757X	7990
+mesalazine	8768L	4888
+fondaparinux	8775W	5781
+fondaparinux	8775W	5808
+risperidone	8780D	4246
+risperidone	8780D	5912
+risperidone	8781E	4246
+risperidone	8781E	5912
+risperidone	8782F	4246
+risperidone	8782F	5912
+risperidone	8787L	6898
+risperidone	8787L	6899
+risperidone	8789N	6898
+risperidone	8789N	6899
+budesonide + formoterol (eformoterol)	8796Y	4380
+pimecrolimus	8802G	5482
+pimecrolimus	8802G	5472
+iron sucrose	8807M	4302
+bivalirudin	8844L	4919
+buprenorphine	8865N	10755
+buprenorphine	8865N	10748
+buprenorphine	8865N	10752
+buprenorphine	8866P	10755
+buprenorphine	8866P	10748
+buprenorphine	8866P	10752
+buprenorphine	8867Q	10755
+buprenorphine	8867Q	10748
+buprenorphine	8867Q	10752
+risperidone	8869T	5903
+granisetron	8873B	10498
+fentanyl	8878G	10745
+fentanyl	8878G	10747
+fentanyl	8878G	10751
+eplerenone	8879H	4937
+eplerenone	8880J	4937
+ezetimibe + simvastatin	8881K	7957
+ezetimibe + simvastatin	8882L	7957
+esomeprazole	8886Q	8775
+esomeprazole	8886Q	8774
+fentanyl	8891Y	10745
+fentanyl	8891Y	10747
+fentanyl	8891Y	10751
+fentanyl	8892B	10745
+fentanyl	8892B	10747
+fentanyl	8892B	10751
+fentanyl	8893C	10745
+fentanyl	8893C	10747
+fentanyl	8893C	10751
+fentanyl	8894D	10745
+fentanyl	8894D	10747
+fentanyl	8894D	10751
+famciclovir	8896F	5954
+famciclovir	8896F	5947
+famciclovir	8896F	5948
+famciclovir	8896F	5949
+famciclovir	8897G	5943
+oxycodone + naloxone	8934F	10755
+oxycodone + naloxone	8934F	10748
+oxycodone + naloxone	8934F	10752
+oxycodone + naloxone	8935G	10755
+oxycodone + naloxone	8935G	10748
+oxycodone + naloxone	8935G	10752
+oxycodone + naloxone	8936H	10755
+oxycodone + naloxone	8936H	10748
+oxycodone + naloxone	8936H	10752
+olanzapine	8952E	5856
+olanzapine	8952E	5869
+olanzapine	8953F	5856
+olanzapine	8953F	5869
+levodopa + carbidopa	8970D	10386
+desmopressin	8975J	5412
+desmopressin	8975J	5226
+saxagliptin	8983T	6346
+saxagliptin	8983T	6363
+saxagliptin	8983T	7505
+alendronate + colecalciferol	9012H	6307
+alendronate + colecalciferol	9012H	6320
+alendronate + colecalciferol	9012H	6315
+ketoconazole	9024Y	6434
+miconazole	9027D	6434
+miconazole	9028E	6434
+miconazole	9029F	6434
+miconazole	9031H	6434
+albendazole	9047E	5817
+albendazole	9047E	5712
+albendazole	9047E	5797
+ziprasidone	9070J	4246
+ziprasidone	9070J	5742
+ziprasidone	9071K	4246
+ziprasidone	9071K	5742
+ziprasidone	9072L	4246
+ziprasidone	9072L	5742
+ziprasidone	9073M	4246
+ziprasidone	9073M	5742
+risperidone	9079W	6897
+risperidone	9079W	6938
+atomoxetine	9092M	7876
+atomoxetine	9092M	7890
+atomoxetine	9093N	7876
+atomoxetine	9093N	7890
+atomoxetine	9094P	7876
+atomoxetine	9094P	7890
+atomoxetine	9095Q	7876
+atomoxetine	9095Q	7890
+atomoxetine	9096R	7876
+atomoxetine	9096R	7890
+omeprazole	9109K	8775
+omeprazole	9109K	8774
+omeprazole	9110L	8780
+omeprazole	9110L	8866
+varenicline	9128K	6871
+varenicline	9129L	7483
+paliperidone	9140C	4246
+paliperidone	9141D	4246
+paliperidone	9142E	4246
+cinacalcet	9157Y	10068
+cinacalcet	9158B	10068
+cinacalcet	9159C	10068
+terbinafine	9160D	6434
+terbinafine	9160D	6412
+levetiracetam	9169N	11077
+sitagliptin	9180E	6346
+sitagliptin	9180E	6363
+sitagliptin	9180E	6376
+sitagliptin	9180E	7505
+sitagliptin	9181F	6346
+sitagliptin	9181F	6363
+sitagliptin	9181F	6376
+sitagliptin	9181F	7505
+sitagliptin	9182G	6346
+sitagliptin	9182G	6363
+sitagliptin	9182G	6376
+sitagliptin	9182G	7505
+alendronate + colecalciferol	9183H	6306
+alendronate + colecalciferol	9183H	6325
+alendronate + colecalciferol	9183H	6319
+quetiapine	9202H	4246
+quetiapine	9202H	5611
+quetiapine	9202H	5639
+quetiapine	9203J	4246
+quetiapine	9203J	5611
+quetiapine	9203J	5639
+quetiapine	9204K	4246
+quetiapine	9204K	5611
+quetiapine	9204K	5639
+quetiapine	9205L	4246
+quetiapine	9205L	5611
+quetiapine	9205L	5639
+zoledronic acid	9288W	6308
+zoledronic acid	9288W	6313
+zoledronic acid	9288W	6318
+atomoxetine	9289X	7876
+atomoxetine	9289X	7890
+atomoxetine	9290Y	7876
+atomoxetine	9290Y	7890
+risperidone	9293D	6898
+risperidone	9293D	6899
+olanzapine	9294E	4304
+olanzapine	9295F	4304
+olanzapine	9303P	4304
+dabigatran	9318K	4369
+dabigatran	9319L	4369
+dabigatran	9320M	4402
+dabigatran	9321N	4402
+dabigatran	9322P	4381
+dabigatran	9323Q	4381
+medium chain triglycerides	9327X	6181
+medium chain triglycerides	9327X	6134
+medium chain triglycerides	9327X	6164
+medium chain triglycerides	9327X	6203
+medium chain triglycerides	9327X	6155
+medium chain triglycerides	9327X	6135
+medium chain triglycerides	9327X	6146
+lacosamide	9333F	8813
+lacosamide	9334G	8813
+lacosamide	9335H	8770
+lacosamide	9335H	8815
+lacosamide	9336J	8813
+lacosamide	9337K	8770
+lacosamide	9337K	8815
+lacosamide	9338L	8770
+lacosamide	9338L	8815
+zoledronic acid	9350D	5710
+sorafenib	9380Q	11160
+sorafenib	9380Q	8617
+triglycerides medium chain formula	9383W	6165
+triglycerides medium chain formula	9383W	6192
+triglycerides medium chain formula	9383W	6173
+triglycerides medium chain formula	9383W	6156
+triglycerides medium chain formula	9383W	6136
+zonisamide	9388D	4928
+zonisamide	9389E	4928
+zonisamide	9390F	4928
+desmopressin	9398P	5412
+desmopressin	9398P	5226
+oxycodone	9399Q	10755
+oxycodone	9399Q	10748
+oxycodone	9399Q	10752
+oxycodone	9400R	10755
+oxycodone	9400R	10748
+oxycodone	9400R	10752
+lanthanum	9403X	5491
+lanthanum	9404Y	5491
+lanthanum	9405B	5491
+sunitinib	9417P	11878
+sunitinib	9418Q	11878
+sunitinib	9419R	11878
+sunitinib	9420T	11875
+sunitinib	9421W	11875
+sunitinib	9422X	11875
+pantoprazole	9423Y	8775
+pantoprazole	9423Y	8774
+pantoprazole	9424B	8780
+pantoprazole	9424B	8866
+mupirocin	9440W	6647
+praziquantel	9447F	5659
+soy lecithin + tocopherol + vitamin A	9448G	6172
+sitagliptin + metformin	9449H	6333
+sitagliptin + metformin	9449H	6334
+sitagliptin + metformin	9449H	6344
+sitagliptin + metformin	9449H	6443
+sitagliptin + metformin	9449H	7530
+sitagliptin + metformin	9450J	6333
+sitagliptin + metformin	9450J	6334
+sitagliptin + metformin	9450J	6344
+sitagliptin + metformin	9450J	6443
+sitagliptin + metformin	9450J	7530
+sitagliptin + metformin	9451K	6333
+sitagliptin + metformin	9451K	6334
+sitagliptin + metformin	9451K	6344
+sitagliptin + metformin	9451K	6443
+sitagliptin + metformin	9451K	7530
+rivaroxaban	9466F	4402
+rivaroxaban	9467G	4402
+rivaroxaban	9469J	4382
+lansoprazole	9477T	8775
+lansoprazole	9477T	8774
+lansoprazole	9478W	8780
+ezetimibe + simvastatin	9483D	7958
+ezetimibe + simvastatin	9484E	7958
+pazopanib	2029T	11974
+pazopanib	2030W	11974
+hyaluronate sodium	2181T	4105
+hyaluronate sodium	2253N	4105
+hyaluronate sodium	2184Y	4105
+hyaluronate sodium	2171G	4105
+rivaroxaban	2160Q	4098
+rivaroxaban	2160Q	4260
+rivaroxaban	2268J	4099
+rivaroxaban	2268J	4132
+rivaroxaban	2268J	4268
+rivaroxaban	2268J	4269
+pazopanib	2232L	11939
+pazopanib	2201W	11939
+pregabalin	2355Y	4172
+pregabalin	2348N	4172
+pregabalin	2335X	4172
+pregabalin	2363J	4172
+aprepitant	2518M	4211
+aprepitant	2518M	4215
+aprepitant	2518M	6444
+aprepitant	2518M	6370
+memantine	2492E	13966
+memantine	2513G	13966
+galantamine	2463P	13938
+galantamine	2537M	13938
+galantamine	2531F	13938
+donepezil	2479L	13938
+donepezil	2532G	13938
+rivastigmine	2475G	13938
+rivastigmine	2493F	13938
+rivastigmine	2494G	13938
+rivastigmine	2477J	13938
+rivastigmine	2526Y	13938
+rivastigmine	2551G	13938
+dapagliflozin	10011X	7506
+dapagliflozin	10011X	4991
+dapagliflozin	10011X	5629
+dapagliflozin	10011X	7495
+teriflunomide	2898M	10150
+teriflunomide	2898M	10199
+dimethyl fumarate	2896K	10140
+dimethyl fumarate	2966D	10139
+pazopanib	10054E	7459
+pazopanib	10042M	9247
+pazopanib	10047T	7458
+pazopanib	10052C	7459
+pazopanib	10041L	9247
+pazopanib	10043N	7458
+alogliptin	2933J	4349
+alogliptin	2986E	4349
+alogliptin	2944Y	4349
+afatinib	11336P	7613
+afatinib	11348G	7613
+afatinib	11347F	7613
+afatinib	11342Y	7613
+dabrafenib	2963Y	10157
+dabrafenib	2846T	10157
+ivermectin	2868Y	4328
+ivermectin	2868Y	4565
+ivermectin	2868Y	4566
+ivermectin	2868Y	12604
+cefalexin	2655R	4243
+trimethoprim	2666H	4243
+rivaroxaban	2691P	4269
+apixaban	2735Y	4269
+apixaban	2735Y	4099
+apixaban	2735Y	5083
+apixaban	2744K	4269
+apixaban	2744K	4132
+dabigatran	2769R	4269
+dabigatran	2753X	4269
+clobetasol	10080M	5461
+axitinib	10539Q	7433
+axitinib	10556N	7433
+tobramycin	10066T	4456
+tobramycin	10074F	4513
+alogliptin + metformin	10035E	4423
+alogliptin + metformin	10035E	4427
+alogliptin + metformin	10033C	4423
+alogliptin + metformin	10033C	4427
+alogliptin + metformin	10032B	4423
+alogliptin + metformin	10032B	4427
+sitagliptin + metformin	10089B	6333
+sitagliptin + metformin	10089B	6334
+sitagliptin + metformin	10089B	6344
+sitagliptin + metformin	10089B	6443
+sitagliptin + metformin	10089B	7530
+iron polymaltose	2805P	4302
+dabrafenib	2954L	6013
+dabrafenib	10003L	6013
+whey protein formula supplemented with amino acids, long chain polyunsaturated fatty acids, vitamins and minerals, low in protein, phosphate, potassium and lactose	2870C	6190
+sunitinib	10009T	7471
+sunitinib	2842N	7471
+sunitinib	10010W	7471
+dimethyl fumarate	2943X	10139
+ivabradine	10012Y	4979
+ivabradine	2960T	4979
+fluticasone propionate + formoterol (eformoterol)	10007Q	4395
+fluticasone propionate + formoterol (eformoterol)	10008R	4395
+fluticasone propionate + formoterol (eformoterol)	2827T	4395
+esomeprazole	10343J	8780
+esomeprazole	10343J	8827
+esomeprazole	10295W	8775
+esomeprazole	10295W	8774
+erlotinib	10019H	4600
+erlotinib	10025P	4600
+erlotinib	10028T	4600
+budesonide + formoterol (eformoterol)	10015D	4397
+budesonide + formoterol (eformoterol)	10018G	4404
+budesonide + formoterol (eformoterol)	10018G	10121
+budesonide + formoterol (eformoterol)	10024N	4397
+febuxostat	10445R	8921
+lurasidone	10529E	4246
+lurasidone	10526B	4246
+indacaterol + glycopyrronium	10156M	7798
+linagliptin + metformin	10044P	6333
+linagliptin + metformin	10044P	6336
+linagliptin + metformin	10044P	6344
+linagliptin + metformin	10044P	6443
+linagliptin + metformin	10044P	7530
+linagliptin + metformin	10038H	6333
+linagliptin + metformin	10038H	6336
+linagliptin + metformin	10038H	6344
+linagliptin + metformin	10038H	6443
+linagliptin + metformin	10038H	7530
+linagliptin + metformin	10045Q	6333
+linagliptin + metformin	10045Q	6336
+linagliptin + metformin	10045Q	6344
+linagliptin + metformin	10045Q	6443
+linagliptin + metformin	10045Q	7530
+saxagliptin + metformin	10048W	6333
+saxagliptin + metformin	10048W	6335
+saxagliptin + metformin	10048W	6344
+saxagliptin + metformin	10048W	7530
+saxagliptin + metformin	10051B	6333
+saxagliptin + metformin	10051B	6335
+saxagliptin + metformin	10051B	6344
+saxagliptin + metformin	10051B	7530
+saxagliptin + metformin	10055F	6333
+saxagliptin + metformin	10055F	6335
+saxagliptin + metformin	10055F	6344
+saxagliptin + metformin	10055F	7530
+umeclidinium + vilanterol	10188F	7798
+tapentadol	10094G	10755
+tapentadol	10094G	10748
+tapentadol	10094G	10752
+tapentadol	10100N	10755
+tapentadol	10100N	10748
+tapentadol	10100N	10752
+tapentadol	10091D	10755
+tapentadol	10091D	10748
+tapentadol	10091D	10752
+tapentadol	10092E	10755
+tapentadol	10092E	10748
+tapentadol	10092E	10752
+tapentadol	10096J	10755
+tapentadol	10096J	10748
+tapentadol	10096J	10752
+denosumab	10061M	4504
+trametinib	10403M	10051
+trametinib	10382K	10051
+trametinib	10405P	6752
+sitagliptin + metformin	10090C	6333
+sitagliptin + metformin	10090C	6334
+sitagliptin + metformin	10090C	6344
+sitagliptin + metformin	10090C	6443
+sitagliptin + metformin	10090C	7530
+empagliflozin	10206E	7506
+empagliflozin	10206E	4991
+empagliflozin	10206E	5629
+empagliflozin	10206E	7495
+empagliflozin	10202Y	7506
+empagliflozin	10202Y	4991
+empagliflozin	10202Y	5629
+empagliflozin	10202Y	7495
+saxagliptin	10128C	6346
+saxagliptin	10128C	6363
+saxagliptin	10128C	7505
+perampanel	10157N	4656
+perampanel	10162W	4658
+perampanel	10163X	4658
+perampanel	11407J	7789
+perampanel	10160R	4658
+perampanel	10151G	4658
+perampanel	10159Q	4658
+dapagliflozin + metformin	10515K	5631
+dapagliflozin + metformin	10515K	5739
+dapagliflozin + metformin	10515K	5798
+dapagliflozin + metformin	10515K	5657
+dapagliflozin + metformin	10515K	7492
+dapagliflozin + metformin	10516L	5631
+dapagliflozin + metformin	10516L	5739
+dapagliflozin + metformin	10516L	5798
+dapagliflozin + metformin	10516L	5657
+dapagliflozin + metformin	10516L	7492
+dapagliflozin + metformin	10510E	5631
+dapagliflozin + metformin	10510E	5739
+dapagliflozin + metformin	10510E	5798
+dapagliflozin + metformin	10510E	5657
+dapagliflozin + metformin	10510E	7492
+sucroferric oxyhydroxide	10250L	5491
+peginterferon beta-1a	10212L	7695
+peginterferon beta-1a	10218T	7695
+peginterferon beta-1a	10220X	6860
+trametinib	10385N	6752
+ezetimibe + atorvastatin	10392Y	7958
+ezetimibe + atorvastatin	10393B	7957
+ezetimibe + atorvastatin	10377E	7957
+ezetimibe + atorvastatin	10376D	7957
+itraconazole	10732W	6022
+itraconazole	10732W	6005
+itraconazole	10732W	6057
+itraconazole	10732W	5988
+itraconazole	10732W	6037
+itraconazole	10732W	6016
+itraconazole	10732W	6035
+aripiprazole	10224D	4246
+aripiprazole	10219W	4246
+ezetimibe (&) rosuvastatin	10204C	7958
+ezetimibe (&) rosuvastatin	10208G	7957
+ezetimibe (&) rosuvastatin	10201X	7957
+ezetimibe (&) rosuvastatin	10207F	7957
+sorafenib	10242C	7487
+apremilast	12218C	13243
+apremilast	12223H	13243
+netupitant + palonosetron	10731T	5991
+netupitant + palonosetron	10731T	5994
+netupitant + palonosetron	10731T	6937
+netupitant + palonosetron	10731T	6879
+lacosamide	10293R	8815
+glatiramer acetate	10416F	7695
+glatiramer acetate	10416F	6860
+sunitinib	10473F	7471
+sunitinib	10459L	11875
+aclidinium + formoterol (eformoterol)	10565C	7798
+apixaban	10414D	4098
+apixaban	10414D	5098
+tiotropium + olodaterol	10557P	7798
+sunitinib	10504W	11878
+lenvatinib	13253M	13921
+lenvatinib	13253M	13972
+lenvatinib	13253M	14007
+lenvatinib	10952K	6604
+lenvatinib	10952K	6578
+lenvatinib	10965D	6604
+lenvatinib	10965D	6578
+empagliflozin + metformin	10650M	5953
+empagliflozin + metformin	10650M	7498
+empagliflozin + metformin	10649L	5953
+empagliflozin + metformin	10649L	7498
+empagliflozin + metformin	10639Y	5953
+empagliflozin + metformin	10639Y	7498
+empagliflozin + metformin	10640B	5953
+empagliflozin + metformin	10640B	7498
+rivastigmine	10538P	13938
+trastuzumab	10682F	10212
+buprenorphine	10770W	10755
+buprenorphine	10770W	10748
+buprenorphine	10770W	10752
+buprenorphine	10756D	10755
+buprenorphine	10756D	10748
+buprenorphine	10756D	10752
+buprenorphine	10755C	10755
+buprenorphine	10755C	10748
+buprenorphine	10755C	10752
+buprenorphine	10746N	10755
+buprenorphine	10746N	10748
+buprenorphine	10746N	10752
+oxycodone + naloxone	10776E	10755
+oxycodone + naloxone	10776E	10748
+oxycodone + naloxone	10776E	10752
+oxycodone + naloxone	10757E	10755
+oxycodone + naloxone	10757E	10748
+oxycodone + naloxone	10757E	10752
+oxycodone + naloxone	10758F	10755
+oxycodone + naloxone	10758F	10748
+oxycodone + naloxone	10758F	10752
+empagliflozin + metformin	10677Y	5966
+empagliflozin + metformin	10677Y	5798
+empagliflozin + metformin	10677Y	5657
+empagliflozin + metformin	10677Y	7492
+empagliflozin + metformin	10626G	5966
+empagliflozin + metformin	10626G	5798
+empagliflozin + metformin	10626G	5657
+empagliflozin + metformin	10626G	7492
+empagliflozin + metformin	10627H	5966
+empagliflozin + metformin	10627H	5798
+empagliflozin + metformin	10627H	5657
+empagliflozin + metformin	10627H	7492
+empagliflozin + metformin	10633P	5966
+empagliflozin + metformin	10633P	5798
+empagliflozin + metformin	10633P	5657
+empagliflozin + metformin	10633P	7492
+sacubitril + valsartan	11123K	11680
+sacubitril + valsartan	11131W	11680
+sacubitril + valsartan	11122J	11680
+cobimetinib	11074W	10033
+vemurafenib	11076Y	10157
+cobimetinib	11075X	6803
+vemurafenib	11081F	6013
+methotrexate	11275K	7488
+methotrexate	11275K	7518
+methotrexate	11283W	7488
+methotrexate	11283W	7518
+methotrexate	11268C	7488
+methotrexate	11268C	7518
+methotrexate	11288D	7488
+methotrexate	11288D	7518
+methotrexate	11295L	7488
+methotrexate	11295L	7518
+trimethoprim + sulfamethoxazole	10784N	6201
+cefalexin	10778G	6188
+dicloxacillin	10790X	6188
+flucloxacillin	10788T	6169
+fusidate	10782L	6133
+erythromycin	10780J	6160
+brivaracetam	11349H	10251
+brivaracetam	11339T	10210
+brivaracetam	11328F	10210
+brivaracetam	11334M	10210
+brivaracetam	11356Q	10210
+trastuzumab	10803N	9462
+trastuzumab	10798H	9353
+betamethasone dipropionate	10802M	6231
+betamethasone dipropionate	10801L	6263
+betamethasone dipropionate	10813D	6218
+betamethasone dipropionate	10800K	6246
+betamethasone dipropionate	10824Q	6232
+betamethasone dipropionate	10823P	6231
+betamethasone dipropionate	10816G	6263
+betamethasone dipropionate	10821M	6218
+betamethasone dipropionate	10820L	6246
+betamethasone dipropionate	10795E	6232
+betamethasone valerate	10810Y	6231
+betamethasone valerate	10807T	6263
+betamethasone valerate	10808W	6218
+betamethasone valerate	10794D	6246
+betamethasone valerate	10799J	6232
+methylprednisolone	10833E	6231
+methylprednisolone	10851D	6263
+methylprednisolone	10835G	6218
+methylprednisolone	10855H	6246
+methylprednisolone	10842P	6232
+methylprednisolone	10845T	6231
+methylprednisolone	10834F	6263
+methylprednisolone	10853F	6218
+methylprednisolone	10836H	6246
+methylprednisolone	10846W	6232
+methylprednisolone	10843Q	6231
+methylprednisolone	10839L	6263
+methylprednisolone	10844R	6218
+methylprednisolone	10840M	6246
+methylprednisolone	10848Y	6232
+methylprednisolone	10830B	6231
+methylprednisolone	10852E	6263
+methylprednisolone	10852E	6218
+methylprednisolone	10838K	6246
+methylprednisolone	10856J	6232
+mometasone	10792B	6231
+mometasone	10818J	6263
+mometasone	10815F	6218
+mometasone	10809X	6246
+mometasone	10827W	6232
+mometasone	10791Y	6231
+mometasone	10793C	6263
+mometasone	10828X	6218
+mometasone	10814E	6246
+mometasone	10812C	6232
+mometasone	10804P	6231
+mometasone	10805Q	6263
+mometasone	10805Q	6218
+mometasone	10826T	6246
+mometasone	10819K	6232
+paliperidone	11085K	13049
+paliperidone	11072R	13049
+paliperidone	11094X	13049
+paliperidone	11066K	13049
+trifluridine + tipiracil	11507P	10309
+trifluridine + tipiracil	11507P	8183
+trifluridine + tipiracil	11524M	10309
+trifluridine + tipiracil	11524M	8183
+adalimumab	12401Q	11604
+oxycodone + naloxone	11102H	10755
+oxycodone + naloxone	11102H	10748
+oxycodone + naloxone	11102H	10752
+oxycodone + naloxone	11111T	10755
+oxycodone + naloxone	11111T	10748
+oxycodone + naloxone	11111T	10752
+fosaprepitant	11107N	6886
+fosaprepitant	11107N	6891
+fosaprepitant	11107N	6887
+fosaprepitant	11107N	6852
+brexpiprazole	11189X	4246
+brexpiprazole	11188W	4246
+brexpiprazole	11190Y	4246
+brexpiprazole	11184P	4246
+adalimumab	12329X	11605
+adalimumab	12365T	11604
+ursodeoxycholic acid	11180K	9032
+adalimumab	12326R	11605
+adalimumab	12353E	11524
+adalimumab	12367X	11524
+adalimumab	12415K	11523
+fluticasone furoate + vilanterol	11124L	4711
+fluticasone furoate + vilanterol	11124L	10121
+fluticasone furoate + vilanterol	11129R	4731
+guanfacine	11452R	9034
+guanfacine	11452R	9031
+guanfacine	11452R	8544
+guanfacine	11452R	8585
+guanfacine	11451Q	9034
+guanfacine	11451Q	9031
+guanfacine	11451Q	8544
+guanfacine	11451Q	8585
+guanfacine	11440D	9034
+guanfacine	11440D	9031
+guanfacine	11440D	8544
+guanfacine	11440D	8585
+guanfacine	11441E	9034
+guanfacine	11441E	9031
+guanfacine	11441E	8544
+guanfacine	11441E	8585
+perampanel	11436X	7815
+perampanel	11418Y	7789
+perampanel	11429M	7789
+perampanel	11428L	7789
+perampanel	11409L	7789
+dapagliflozin	13106T	13230
+saxagliptin + dapagliflozin	11305B	7556
+balsalazide	11351K	7621
+cladribine	11603Q	10170
+cladribine	11603Q	10171
+cladribine	11604R	10170
+cladribine	11604R	10171
+cladribine	11611D	10170
+cladribine	11611D	10171
+etanercept	11211C	7276
+etanercept	11218K	7276
+fluticasone furoate + umeclidinium + vilanterol	11379X	12349
+empagliflozin	12918X	12477
+etanercept	11215G	9481
+etanercept	11217J	9481
+cabozantinib	11371L	11880
+cabozantinib	11369J	11880
+cabozantinib	11360X	11880
+etanercept	11216H	9156
+etanercept	11202N	9156
+dulaglutide	11364D	7645
+dulaglutide	11364D	5478
+dulaglutide	11364D	5469
+etanercept	11225T	8887
+etanercept	11225T	8955
+etanercept	11221N	8887
+etanercept	11221N	8955
+budesonide	12915R	12607
+empagliflozin + linagliptin	11269D	7524
+empagliflozin + linagliptin	11303X	7524
+budesonide + formoterol (eformoterol)	11273H	7970
+budesonide + formoterol (eformoterol)	11301T	7979
+budesonide + formoterol (eformoterol)	11301T	10121
+stiripentol	12103B	11642
+stiripentol	12106E	11642
+stiripentol	12107F	11642
+stiripentol	12088F	11642
+olaparib	11503K	10937
+olaparib	11539H	10937
+lapatinib	11251E	9360
+sunitinib	11253G	13153
+sunitinib	11256K	13153
+sunitinib	11250D	13153
+sunitinib	11266Y	13153
+everolimus	11258M	7431
+everolimus	11254H	7431
+everolimus	11267B	7431
+erlotinib	11259N	7446
+erlotinib	11260P	7446
+erlotinib	11263T	7446
+gefitinib	11264W	7447
+everolimus	11257L	7432
+everolimus	11262R	7432
+pazopanib	11252F	11937
+pazopanib	11261Q	11937
+dapagliflozin	11291G	7528
+dapagliflozin + metformin	11300R	7498
+dapagliflozin + metformin	11313K	7498
+dapagliflozin + metformin	11270E	7498
+saxagliptin	11292H	7541
+saxagliptin	11311H	7541
+saxagliptin + metformin	11285Y	7507
+saxagliptin + metformin	11299Q	7507
+saxagliptin + metformin	11312J	7507
+saxagliptin + dapagliflozin	11286B	7524
+empagliflozin + linagliptin	11310G	7556
+empagliflozin + linagliptin	11298P	7556
+empagliflozin	11281R	7528
+empagliflozin	11314L	7528
+linagliptin	11280Q	7541
+linagliptin + metformin	11274J	7507
+linagliptin + metformin	11282T	7507
+linagliptin + metformin	11294K	7507
+brivaracetam	11327E	10208
+brivaracetam	11338R	10208
+brivaracetam	11350J	10208
+brivaracetam	11357R	10208
+brivaracetam	11358T	10330
+cabozantinib	11374P	7631
+cabozantinib	11368H	7631
+cabozantinib	11367G	7631
+perfluorohexyloctane	11439C	6172
+perfluorohexyloctane	11446K	6172
+ertugliflozin + sitagliptin	11561L	7524
+ertugliflozin + sitagliptin	11583P	7524
+ertugliflozin + sitagliptin	11579K	7556
+ertugliflozin + sitagliptin	11578J	7556
+lenvatinib	11638M	11168
+lenvatinib	11638M	8584
+tolvaptan	11600M	8288
+ertugliflozin	11577H	7528
+ertugliflozin	11585R	7506
+ertugliflozin	11585R	7495
+ertugliflozin	11570Y	7528
+ertugliflozin	11571B	7506
+ertugliflozin	11571B	7495
+sitagliptin	11572C	7541
+sitagliptin	11573D	7541
+sitagliptin	11576G	7541
+lenvatinib	13252L	13921
+lenvatinib	13252L	13972
+lenvatinib	13252L	14007
+obeticholic acid	12640G	12138
+obeticholic acid	12630R	12138
+lacosamide	11694L	8770
+lacosamide	11694L	8815
+encorafenib	11937G	10271
+encorafenib	11938H	10271
+binimetinib	11948W	10328
+binimetinib	11961M	10306
+encorafenib	11954E	6013
+encorafenib	11949X	6013
+tiotropium	11629C	8606
+isotretinoin	11716P	5224
+everolimus	11607X	8262
+everolimus	11608Y	8262
+everolimus	11598K	8262
+sitagliptin + metformin	11566R	7507
+sitagliptin + metformin	11580L	7507
+sitagliptin + metformin	11574E	7507
+sitagliptin + metformin	11582N	7507
+sitagliptin + metformin	11586T	7507
+tolvaptan	11593E	8288
+tolvaptan	11596H	8288
+carmellose sodium	11853W	6172
+carmellose sodium	11852T	6172
+isotretinoin	11621P	5224
+sodium phenylbutyrate	11865L	9993
+sodium phenylbutyrate	11865L	9919
+rivaroxaban	11633G	4132
+rivaroxaban	12197Y	11013
+esomeprazole	11692J	8776
+esomeprazole	11687D	8776
+lansoprazole	11697P	8776
+lansoprazole	11669E	8776
+rabeprazole	11670F	8776
+omeprazole	11683X	8776
+omeprazole	11677N	8776
+omeprazole	11682W	8776
+pantoprazole	11681T	8776
+pantoprazole	11678P	8776
+sevelamer	11856B	5491
+calcium	11726E	4586
+imatinib	11764E	9209
+imatinib	11786H	9209
+galcanezumab	12478R	12064
+imatinib	11776T	9209
+imatinib	11753N	9209
+imatinib	11782D	12536
+imatinib	11775R	12536
+imatinib	11772N	12536
+imatinib	11752M	12536
+imatinib	11757T	9243
+imatinib	11769K	9243
+imatinib	11756R	9243
+imatinib	11765F	9243
+imatinib	11779Y	9206
+imatinib	11785G	9206
+imatinib	11777W	9206
+imatinib	11762C	9206
+imatinib	11763D	9296
+imatinib	11758W	9296
+imatinib	11781C	9296
+imatinib	11770L	9296
+imatinib	11771M	9207
+imatinib	11789L	9207
+imatinib	11783E	9207
+imatinib	11780B	9207
+imatinib	11784F	9278
+imatinib	11788K	9278
+imatinib	11787J	13132
+imatinib	11778X	13132
+tocilizumab	11742B	14150
+tocilizumab	11720W	14150
+mupirocin	11822F	6647
+fingolimod	11818B	10198
+fingolimod	11818B	10093
+hypromellose	11849P	6172
+hypromellose	11842G	6172
+fremanezumab	12611R	12064
+fremanezumab	12603H	12029
+isotretinoin	11921K	5224
+protein formula with vitamins and minerals, and low in potassium, phosphorus, calcium, chloride and vitamin A	12191P	11070
+levodopa + carbidopa	11919H	10197
+galcanezumab	12469G	12029
+imatinib	11880G	12542
+imatinib	11880G	12525
+imatinib	11878E	12542
+imatinib	11878E	12525
+imatinib	11875B	12542
+imatinib	11875B	12525
+imatinib	11870R	12542
+imatinib	11870R	12525
+risperidone	11877D	10020
+risperidone	11874Y	10020
+risperidone	11872W	10020
+risperidone	11869Q	10020
+alirocumab	12608N	12010
+alirocumab	12608N	12011
+alirocumab	12607M	12010
+alirocumab	12607M	12011
+amoxicillin	11947T	10402
+amoxicillin + clavulanic acid	11941L	10405
+amoxicillin + clavulanic acid	11933C	10413
+cefalexin	11963P	10412
+cefalexin	11934D	10410
+adalimumab	12328W	11634
+adalimumab	12352D	11631
+adalimumab	12403T	11635
+adalimumab	12403T	11606
+adalimumab	12420Q	11718
+adalimumab	12334E	11579
+adalimumab	12438P	11523
+adalimumab	12327T	11634
+adalimumab	12437N	11631
+adalimumab	12366W	11635
+adalimumab	12366W	11606
+tolvaptan	12457P	8288
+tolvaptan	12462X	8288
+semaglutide	12080T	5500
+semaglutide	12080T	5478
+semaglutide	12080T	5469
+semaglutide	12075M	5500
+semaglutide	12075M	5478
+semaglutide	12075M	5469
+ozanimod	12271W	10162
+ozanimod	12271W	10172
+evolocumab	11986W	12010
+evolocumab	11986W	12011
+evolocumab	11985T	12010
+evolocumab	11985T	12011
+evolocumab	11977J	10388
+evolocumab	11972D	10388
+amoxicillin	11998L	10404
+beclometasone + formoterol (eformoterol)	12183F	11057
+roxithromycin	12001P	10404
+roxithromycin	11993F	10404
+apomorphine	12142C	10844
+apomorphine	12133N	10844
+apomorphine	12137T	10844
+amoxicillin	12002Q	10416
+budesonide + formoterol (eformoterol)	12042T	10482
+budesonide + formoterol (eformoterol)	12041R	10464
+trifluridine + tipiracil	12056M	10252
+trifluridine + tipiracil	12056M	10310
+trifluridine + tipiracil	12033H	10252
+trifluridine + tipiracil	12033H	10310
+indacaterol + glycopyrronium + mometasone	12295D	12603
+budesonide + formoterol (eformoterol)	12029D	10464
+terbutaline	12267P	9828
+budesonide + formoterol (eformoterol)	12100W	10538
+budesonide + formoterol (eformoterol)	12089G	10538
+budesonide + formoterol (eformoterol)	12082X	10538
+budesonide + formoterol (eformoterol)	12101X	10538
+tocilizumab	12090H	14084
+tocilizumab	12086D	14084
+budesonide + formoterol (eformoterol)	12093L	10538
+indacaterol + glycopyrronium + mometasone	12298G	12603
+tocilizumab	12084B	14088
+tocilizumab	12099T	14088
+liquid paraffin + glycerol + tyloxapol + poloxamer-188 + trometamol hydrochloride + trometamol + cetalkonium chloride	12612T	6172
+siponimod	12158X	10955
+siponimod	12158X	10953
+siponimod	12172P	10955
+siponimod	12172P	10953
+siponimod	12160B	10955
+siponimod	12160B	10953
+rivaroxaban	12192Q	10992
+progesterone	12465C	11673
+cariprazine	12652X	4246
+cariprazine	12619E	4246
+cariprazine	12653Y	4246
+cariprazine	12622H	4246
+indacaterol + mometasone	12269R	11360
+indacaterol + mometasone	12289T	11360
+indacaterol + mometasone	12279G	11360
+ozanimod	12278F	10162
+ozanimod	12278F	10172
+fulvestrant	12300J	11473
+apomorphine	12319J	10844
+apomorphine	12306Q	10844
+apomorphine	12320K	10844
+adalimumab	12434K	11718
+adalimumab	12325Q	11579
+adalimumab	12330Y	11529
+adalimumab	12436M	11718
+adalimumab	12351C	11579
+beclometasone + formoterol (eformoterol) + glycopyrronium	12468F	12349
+progesterone	12598C	11835
+desmopressin	12459R	5342
+desmopressin	12459R	5267
+desmopressin	12458Q	5266
+lacosamide	12633X	12225
+lacosamide	12649R	12225
+lacosamide	12626M	12092
+lacosamide	12634Y	12092
+lacosamide	12627N	12092
+lacosamide	12658F	12092
+lacosamide	12628P	12092
+ofatumumab	12642J	10162
+ofatumumab	12641H	10172
+teriparatide	12670W	12492
+teriparatide	12670W	12270
+budesonide + glycopyrronium + formoterol (eformoterol)	12672Y	12349
+imatinib	12710Y	9278
+imatinib	12711B	9278
+imatinib	12722N	13132
+imatinib	12723P	13132
+dapagliflozin	12823X	12477
+encorafenib	12814K	12487
+encorafenib	12815L	12484
+idelalisib	12813J	12480
+idelalisib	12812H	12480
+dasatinib	12889J	12565
+dasatinib	12869H	12565
+dasatinib	12843Y	12565
+dasatinib	12890K	12565
+dasatinib	12859T	12530
+dasatinib	12850H	12530
+dasatinib	12860W	12530
+dasatinib	12903D	12530
+nilotinib	12868G	12572
+nilotinib	12858R	12563
+nilotinib	12885E	12549
+dasatinib	12842X	12522
+dasatinib	12888H	12522
+dasatinib	12857Q	12522
+dasatinib	12866E	12522
+nilotinib	12867F	12522
+imatinib	12928K	12542
+imatinib	12928K	12525
+imatinib	12912N	12536
+imatinib	12920B	9207
+imatinib	12923E	9209
+imatinib	12919Y	13132
+molnupiravir	12910L	13759
+molnupiravir	12910L	13824
+molnupiravir	12910L	13748
+molnupiravir	12910L	13765
+fluticasone furoate + umeclidinium + vilanterol	12917W	12603
+varenicline	12978C	6885
+varenicline	12947K	7483
+nirmatrelvir (&) ritonavir	12996B	13759
+nirmatrelvir (&) ritonavir	12996B	13821
+nirmatrelvir (&) ritonavir	12996B	13748
+nirmatrelvir (&) ritonavir	12996B	14187
+diroximel fumarate	13059H	13072
+diroximel fumarate	13059H	13034
+diroximel fumarate	13059H	13090
+ozanimod	13251K	14017
+paliperidone	13053B	13082
+paliperidone	13046P	13082
+glatiramer acetate	13110B	7695
+glatiramer acetate	13110B	6860
+medium chain triglycerides	13108X	6147
+medium chain triglycerides	13108X	6191
+decitabine + cedazuridine	13081L	13258
+polyethylene glycol-400 + propylene glycol	13113E	6172
+polyethylene glycol-400 + propylene glycol	13100L	6172
+fremanezumab	13115G	12064
+fremanezumab	13129B	12029
+tepotinib	13171F	13434
+tepotinib	13171F	13441
+tepotinib	13171F	13435
+faricimab	13195L	13406
+faricimab	13198P	13402
+aflibercept	13150D	13402
+aflibercept	13164W	13402
+dexamethasone	13168C	13428
+ranibizumab	13134G	13402
+ranibizumab	13165X	13402
+aflibercept	13141P	13387
+aflibercept	13141P	13336
+aflibercept	13138L	13387
+aflibercept	13138L	13336
+dexamethasone	13142Q	13387
+dexamethasone	13142Q	13336
+ranibizumab	13166Y	13387
+ranibizumab	13166Y	13336
+ranibizumab	13149C	13387
+ranibizumab	13149C	13336
+aflibercept	13139M	13392
+aflibercept	13151E	13392
+aflibercept	13167B	13406
+aflibercept	13146X	13406
+ranibizumab	13157L	13406
+ranibizumab	13137K	13406
+ranibizumab	13143R	13392
+ranibizumab	13143R	13340
+ranibizumab	13156K	13392
+ranibizumab	13156K	13340
+vericiguat	13192H	13561
+vericiguat	13178N	13561
+vericiguat	13189E	13561
+amoxicillin + clavulanic acid	13194K	10413
+beclometasone + formoterol (eformoterol)	13205B	11057
+beclometasone + formoterol (eformoterol) + glycopyrronium	13200R	12603
+tocilizumab	13306H	14104
+tocilizumab	13301C	14104
+adalimumab	13226D	11634
+adalimumab	13208E	11634
+adalimumab	13230H	11524
+adalimumab	13220T	11524
+adalimumab	13221W	11529
+adalimumab	13211H	11579
+adalimumab	13213K	11579
+adalimumab	13223Y	11604
+adalimumab	13209F	11604
+adalimumab	13227E	11605
+adalimumab	13222X	11605
+adalimumab	13215M	11635
+adalimumab	13215M	11606
+adalimumab	13217P	11635
+adalimumab	13217P	11606
+adalimumab	13225C	11631
+adalimumab	13219R	11631
+adalimumab	13224B	11718
+adalimumab	13218Q	11718
+adalimumab	13214L	11523
+adalimumab	13216N	11523
+ruxolitinib	13241X	13906
+ruxolitinib	13241X	13867
+ruxolitinib	13241X	13866
+ruxolitinib	13235N	13906
+ruxolitinib	13235N	13867
+ruxolitinib	13235N	13866
+lenvatinib	13283D	14042
+lenvatinib	13283D	14041
+lenvatinib	13283D	14043
+lenvatinib	13290L	14042
+lenvatinib	13290L	14041
+lenvatinib	13290L	14043
+budesonide + formoterol (eformoterol)	13258T	7979
+budesonide + formoterol (eformoterol)	13258T	10121
+asciminib	13259W	13923
+asciminib	13268H	13923
+finerenone	13335W	14097
+finerenone	13316W	14097
+mycophenolate	1839T	5653
+mycophenolate	1839T	5600
+mannitol	2015C	7362
+mannitol	2015C	7367
+apomorphine	5609F	11385
+apomorphine	5610G	11385
+azithromycin	5616N	6356
+baclofen	5617P	6925
+baclofen	5617P	6939
+baclofen	5617P	6940
+baclofen	5617P	6911
+clozapine	5626D	5015
+clozapine	5627E	5015
+clozapine	5628F	5015
+clozapine	5629G	5015
+clozapine	5630H	5015
+ciclosporin	5631J	6628
+ciclosporin	5632K	6643
+ciclosporin	5632K	6660
+ciclosporin	5632K	13168
+ciclosporin	5632K	6631
+ciclosporin	5632K	6638
+ciclosporin	5633L	6643
+ciclosporin	5633L	6660
+ciclosporin	5633L	13168
+ciclosporin	5633L	6631
+ciclosporin	5633L	6638
+ciclosporin	5634M	6643
+ciclosporin	5634M	6660
+ciclosporin	5634M	13168
+ciclosporin	5634M	6631
+ciclosporin	5634M	6638
+ciclosporin	5635N	6643
+ciclosporin	5635N	6660
+ciclosporin	5635N	13168
+ciclosporin	5635N	6631
+ciclosporin	5635N	6638
+ciclosporin	5636P	6643
+ciclosporin	5636P	6660
+ciclosporin	5636P	13168
+ciclosporin	5636P	6631
+ciclosporin	5636P	6638
+darbepoetin alfa	5637Q	6294
+darbepoetin alfa	5638R	6294
+darbepoetin alfa	5639T	6294
+darbepoetin alfa	5640W	6294
+darbepoetin alfa	5641X	6294
+darbepoetin alfa	5642Y	6294
+darbepoetin alfa	5643B	6294
+darbepoetin alfa	5644C	6294
+darbepoetin alfa	5645D	6294
+darbepoetin alfa	5646E	6294
+darbepoetin alfa	5647F	6294
+darbepoetin alfa	5648G	6294
+darbepoetin alfa	5649H	6294
+darbepoetin alfa	5650J	6294
+darbepoetin alfa	5651K	6294
+deferasirox	5654N	8328
+deferasirox	5654N	8329
+deferasirox	5654N	8326
+deferasirox	5655P	8328
+deferasirox	5655P	8329
+deferasirox	5655P	8326
+deferasirox	5656Q	8328
+deferasirox	5656Q	8329
+deferasirox	5656Q	8326
+deferiprone	5657R	6448
+deferiprone	5657R	6403
+deferiprone	5658T	6448
+deferiprone	5658T	6403
+desferrioxamine	5661Y	6394
+desferrioxamine	5662B	6394
+pamidronate disodium	5667G	4433
+pamidronate disodium	5668H	4433
+pamidronate disodium	5669J	4433
+pamidronate disodium	5670K	4433
+pamidronate disodium	5670K	5218
+pamidronate disodium	5670K	5291
+dornase alfa	5704F	5740
+dornase alfa	5704F	5634
+dornase alfa	5704F	5635
+doxorubicin hydrochloride (as pegylated liposomal)	5705G	6234
+doxorubicin hydrochloride (as pegylated liposomal)	5705G	6274
+epoetin alfa	5713Q	6294
+epoetin alfa	5714R	6294
+epoetin alfa	5715T	6294
+epoetin alfa	5716W	6294
+epoetin alfa	5717X	6294
+epoetin alfa	5718Y	6294
+epoetin alfa	5719B	6294
+epoetin alfa	5720C	6294
+epoetin alfa	5721D	6294
+epoetin alfa	5722E	6294
+epoetin beta	5724G	6294
+epoetin beta	5725H	6294
+epoetin beta	5726J	6294
+epoetin beta	5727K	6294
+epoetin beta	5728L	6294
+epoetin beta	5729M	6294
+everolimus	5737Y	5795
+everolimus	5737Y	5554
+everolimus	5738B	5795
+everolimus	5738B	5554
+everolimus	5739C	5795
+everolimus	5739C	5554
+everolimus	5740D	5795
+everolimus	5740D	5554
+filgrastim	5741E	7822
+filgrastim	5741E	7843
+filgrastim	5741E	6653
+filgrastim	5741E	6654
+filgrastim	5741E	6679
+filgrastim	5741E	6655
+filgrastim	5741E	6680
+filgrastim	5741E	6621
+filgrastim	5741E	6640
+filgrastim	5742F	7822
+filgrastim	5742F	7843
+filgrastim	5742F	6653
+filgrastim	5742F	6654
+filgrastim	5742F	6679
+filgrastim	5742F	6655
+filgrastim	5742F	6680
+filgrastim	5742F	6621
+filgrastim	5742F	6640
+filgrastim	5743G	7822
+filgrastim	5743G	7843
+filgrastim	5743G	6653
+filgrastim	5743G	6654
+filgrastim	5743G	6679
+filgrastim	5743G	6655
+filgrastim	5743G	6680
+filgrastim	5743G	6621
+filgrastim	5743G	6640
+filgrastim	5744H	7822
+filgrastim	5744H	7843
+filgrastim	5744H	6653
+filgrastim	5744H	6654
+filgrastim	5744H	6679
+filgrastim	5744H	6655
+filgrastim	5744H	6680
+filgrastim	5744H	6621
+filgrastim	5744H	6640
+ganciclovir	5749N	4972
+ganciclovir	5749N	4999
+ibandronate	5750P	5291
+interferon gamma-1b	5769P	6222
+lanreotide	5777C	7025
+lanreotide	5777C	4575
+lanreotide	5778D	7025
+lanreotide	5778D	4575
+lanreotide	5779E	7025
+lanreotide	5779E	4575
+lanthanum	5780F	5530
+lanthanum	5781G	5530
+lanthanum	5782H	5530
+methoxy polyethylene glycol-epoetin beta	5794Y	6294
+methoxy polyethylene glycol-epoetin beta	5795B	6294
+methoxy polyethylene glycol-epoetin beta	5796C	6294
+methoxy polyethylene glycol-epoetin beta	5797D	6294
+methoxy polyethylene glycol-epoetin beta	5798E	6294
+methoxy polyethylene glycol-epoetin beta	5799F	6294
+methoxy polyethylene glycol-epoetin beta	5800G	6294
+filgrastim	5829T	7822
+filgrastim	5829T	7843
+filgrastim	5829T	6653
+filgrastim	5829T	6654
+filgrastim	5829T	6679
+filgrastim	5829T	6655
+filgrastim	5829T	6680
+filgrastim	5829T	6621
+filgrastim	5829T	6640
+mycophenolate	9500B	5795
+mycophenolate	9500B	5554
+mycophenolate	9501C	5653
+mycophenolate	9501C	5600
+mycophenolate	9502D	5795
+mycophenolate	9502D	5554
+mycophenolate	9503E	4084
+mycophenolate	9503E	4095
+mycophenolate	9504F	4084
+mycophenolate	9504F	4095
+natalizumab	9505G	13718
+octreotide	9508K	8165
+octreotide	9508K	6390
+octreotide	9508K	6369
+octreotide	9509L	8165
+octreotide	9509L	6390
+octreotide	9509L	6369
+octreotide	9510M	8165
+octreotide	9510M	6390
+octreotide	9510M	6369
+pegfilgrastim	9514R	7822
+pegfilgrastim	9514R	7843
+peginterferon alfa-2a	9515T	5004
+peginterferon alfa-2a	9516W	5004
+rifabutin	9541E	6350
+rifabutin	9541E	6356
+sevelamer	9546K	5530
+sirolimus	9548M	5795
+sirolimus	9549N	5795
+sirolimus	9550P	5795
+tacrolimus	9558C	5569
+tacrolimus	9560E	5569
+tacrolimus	9561F	5569
+thalidomide	9566L	5914
+valaciclovir	9568N	5975
+valganciclovir	9569P	4989
+epoetin lambda	9587N	6294
+epoetin lambda	9589Q	6294
+epoetin lambda	9591T	6294
+epoetin lambda	9594Y	6294
+epoetin lambda	9596C	6294
+zoledronic acid	9653C	5735
+zoledronic acid	9653C	5605
+zoledronic acid	9653C	5703
+zoledronic acid	9653C	5704
+valganciclovir	9655E	4989
+tacrolimus	9664P	5569
+tacrolimus	9665Q	5569
+tacrolimus	9666R	5569
+thalidomide	9667T	5914
+epoetin lambda	9668W	6294
+epoetin lambda	9669X	6294
+epoetin lambda	9670Y	6294
+levodopa + carbidopa	9743T	10375
+sirolimus	9747B	5795
+filgrastim	2758E	7822
+filgrastim	2758E	7843
+filgrastim	2758E	6653
+filgrastim	2758E	6654
+filgrastim	2758E	6679
+filgrastim	2758E	6655
+filgrastim	2758E	6680
+filgrastim	2758E	6621
+filgrastim	2758E	6640
+filgrastim	2783L	7822
+filgrastim	2783L	7843
+filgrastim	2783L	6653
+filgrastim	2783L	6654
+filgrastim	2783L	6679
+filgrastim	2783L	6655
+filgrastim	2783L	6680
+filgrastim	2783L	6621
+filgrastim	2783L	6640
+infliximab	10067W	4524
+plerixafor	10083Q	4549
+alemtuzumab	10228H	7714
+alemtuzumab	10232M	6847
+sucroferric oxyhydroxide	10233N	5530
+anakinra	10264F	5450
+octreotide	10543X	8161
+octreotide	10543X	5901
+octreotide	10543X	5906
+octreotide	10533J	8161
+octreotide	10533J	5901
+octreotide	10533J	5906
+octreotide	10550G	8161
+octreotide	10550G	5901
+octreotide	10550G	5906
+lipegfilgrastim	10936N	7822
+lipegfilgrastim	10936N	7843
+tacrolimus	10859M	5569
+tacrolimus	10860N	5569
+apomorphine	10950H	11385
+apomorphine	11093W	10863
+ocrelizumab	11242Q	7699
+ocrelizumab	11242Q	7386
+baclofen	11126N	6925
+baclofen	11126N	6939
+baclofen	11126N	6940
+baclofen	11126N	6911
+baclofen	11195F	7152
+baclofen	11195F	7134
+baclofen	11195F	7153
+baclofen	11195F	7148
+deferiprone	11747G	6448
+deferiprone	11747G	6403
+apomorphine	11477C	10863
+infliximab	11400B	12069
+clozapine	11433R	5015
+apomorphine	11672H	10863
+baclofen	11421D	6925
+baclofen	11421D	6939
+baclofen	11421D	6940
+baclofen	11421D	6911
+infliximab	11423F	9787
+infliximab	11449N	9668
+infliximab	11461F	12042
+infliximab	11486M	9481
+infliximab	11490R	12075
+deferasirox	11534C	8328
+deferasirox	11534C	8329
+deferasirox	11534C	8326
+deferasirox	11535D	8328
+deferasirox	11535D	8329
+deferasirox	11535D	8326
+deferasirox	11555E	8328
+deferasirox	11555E	8329
+deferasirox	11555E	8326
+lanreotide	11513Y	10061
+infliximab	11514B	9188
+infliximab	11605T	8844
+infliximab	11605T	8940
+sevelamer	11855Y	5530
+octreotide	11893Y	10061
+tacrolimus	11907Q	5569
+levodopa + carbidopa	11913B	10138
+cinacalcet	11887P	10067
+cinacalcet	11886N	10067
+cinacalcet	11885M	10067
+methoxsalen	12156T	10985
+methoxsalen	12154Q	10988
+adalimumab	12355G	14136
+adalimumab	12348X	14136
+adalimumab	12417M	14136
+methoxsalen	12876Q	12546
+methoxsalen	12854M	12531
+azacitidine	13044M	12986
+tocilizumab	13330N	14093
+tocilizumab	13299Y	14093
+tocilizumab	13304F	14093
+tocilizumab	13324G	14164
+tocilizumab	13305G	14164
+adalimumab	13212J	14136
+adalimumab	13228F	14136
+ruxolitinib	13243B	13907
+ruxolitinib	13232K	13907
+ruxolitinib	13238R	13892
+ruxolitinib	13238R	13891
+ruxolitinib	13245D	13892
+ruxolitinib	13245D	13891
+adalimumab	13293P	14136
+tocilizumab	13339C	14164
+etanercept	13294Q	14154
+etanercept	13319B	14154
+etanercept	13308K	14154
+mycophenolate	1837Q	9689
+mycophenolate	1837Q	9690
+mannitol	2008Q	9527
+mannitol	2008Q	9593
+filgrastim	5830W	8674
+filgrastim	5830W	8667
+filgrastim	5830W	8672
+filgrastim	5830W	8668
+filgrastim	5830W	8671
+filgrastim	5830W	8696
+filgrastim	5830W	8669
+filgrastim	5830W	8670
+filgrastim	5830W	8673
+clozapine	6101D	9490
+clozapine	6102E	9490
+ciclosporin	6109M	9831
+desferrioxamine	6113R	9696
+dornase alfa	6120D	9624
+dornase alfa	6120D	9591
+dornase alfa	6120D	9592
+ciclosporin	6125J	9764
+ciclosporin	6125J	9695
+ciclosporin	6125J	13122
+ciclosporin	6125J	9694
+ciclosporin	6125J	9742
+filgrastim	6126K	8674
+filgrastim	6126K	8667
+filgrastim	6126K	8672
+filgrastim	6126K	8668
+filgrastim	6126K	8671
+filgrastim	6126K	8696
+filgrastim	6126K	8669
+filgrastim	6126K	8670
+filgrastim	6126K	8673
+filgrastim	6127L	8674
+filgrastim	6127L	8667
+filgrastim	6127L	8672
+filgrastim	6127L	8668
+filgrastim	6127L	8671
+filgrastim	6127L	8696
+filgrastim	6127L	8669
+filgrastim	6127L	8670
+filgrastim	6127L	8673
+ganciclovir	6136Y	9404
+ganciclovir	6136Y	9526
+interferon gamma-1b	6148N	9639
+rifabutin	6195C	9560
+rifabutin	6195C	9622
+epoetin alfa	6204M	9688
+epoetin alfa	6205N	9688
+epoetin alfa	6206P	9688
+epoetin alfa	6207Q	9688
+mycophenolate	6208R	9689
+mycophenolate	6208R	9690
+mycophenolate	6209T	9691
+mycophenolate	6209T	9693
+tacrolimus	6216E	9697
+tacrolimus	6217F	9697
+azithromycin	6221K	9604
+octreotide	6227R	9233
+octreotide	6227R	9289
+octreotide	6227R	9232
+octreotide	6228T	9233
+octreotide	6228T	9289
+octreotide	6228T	9232
+octreotide	6229W	9233
+octreotide	6229W	9289
+octreotide	6229W	9232
+ciclosporin	6232B	9764
+ciclosporin	6232B	9695
+ciclosporin	6232B	13122
+ciclosporin	6232B	9694
+ciclosporin	6232B	9742
+doxorubicin hydrochloride (as pegylated liposomal)	6249X	9287
+doxorubicin hydrochloride (as pegylated liposomal)	6249X	9223
+epoetin alfa	6251B	9688
+desferrioxamine	6270B	9696
+valaciclovir	6280M	9267
+baclofen	6284R	9488
+baclofen	6284R	9637
+baclofen	6284R	9489
+baclofen	6284R	9524
+pamidronate disodium	6286W	9234
+pamidronate disodium	6287X	9234
+pamidronate disodium	6288Y	9234
+pamidronate disodium	6289B	9234
+pamidronate disodium	6289B	9335
+pamidronate disodium	6289B	9315
+filgrastim	6291D	8674
+filgrastim	6291D	8667
+filgrastim	6291D	8672
+filgrastim	6291D	8668
+filgrastim	6291D	8671
+filgrastim	6291D	8696
+filgrastim	6291D	8669
+filgrastim	6291D	8670
+filgrastim	6291D	8673
+filgrastim	6292E	8674
+filgrastim	6292E	8667
+filgrastim	6292E	8672
+filgrastim	6292E	8668
+filgrastim	6292E	8671
+filgrastim	6292E	8696
+filgrastim	6292E	8669
+filgrastim	6292E	8670
+filgrastim	6292E	8673
+epoetin alfa	6302Q	9688
+epoetin alfa	6303R	9688
+epoetin alfa	6305W	9688
+darbepoetin alfa	6320P	9688
+darbepoetin alfa	6321Q	9688
+darbepoetin alfa	6322R	9688
+darbepoetin alfa	6323T	9688
+darbepoetin alfa	6324W	9688
+darbepoetin alfa	6325X	9688
+darbepoetin alfa	6326Y	9688
+tacrolimus	6328C	9697
+epoetin alfa	6339P	9688
+ciclosporin	6352H	9764
+ciclosporin	6352H	9695
+ciclosporin	6352H	13122
+ciclosporin	6352H	9694
+ciclosporin	6352H	9742
+ciclosporin	6353J	9764
+ciclosporin	6353J	9695
+ciclosporin	6353J	13122
+ciclosporin	6353J	9694
+ciclosporin	6353J	9742
+ciclosporin	6354K	9764
+ciclosporin	6354K	9695
+ciclosporin	6354K	13122
+ciclosporin	6354K	9694
+ciclosporin	6354K	9742
+valganciclovir	6357N	9316
+pegfilgrastim	6363X	9235
+pegfilgrastim	6363X	9303
+mycophenolate	6364Y	9691
+mycophenolate	6364Y	9693
+darbepoetin alfa	6365B	9688
+mycophenolate	6369F	9692
+mycophenolate	6369F	9809
+mycophenolate	6370G	9692
+mycophenolate	6370G	9809
+zoledronic acid	6371H	9268
+zoledronic acid	6371H	9328
+zoledronic acid	6371H	9304
+zoledronic acid	6371H	9317
+deferiprone	6416Q	9286
+deferiprone	6416Q	9228
+clozapine	6417R	9490
+clozapine	6418T	9490
+lanreotide	6423C	9261
+lanreotide	6423C	9260
+lanreotide	6424D	9261
+lanreotide	6424D	9260
+lanreotide	6425E	9261
+lanreotide	6425E	9260
+epoetin alfa	6434P	9688
+sirolimus	6436R	9914
+sirolimus	6437T	9914
+darbepoetin alfa	6438W	9688
+peginterferon alfa-2a	6439X	9603
+peginterferon alfa-2a	6449K	9603
+sirolimus	6457W	9914
+everolimus	6459Y	9691
+everolimus	6459Y	9693
+everolimus	6460B	9691
+everolimus	6460B	9693
+everolimus	6461C	9691
+everolimus	6461C	9693
+thalidomide	6469L	9290
+epoetin beta	6480C	9688
+epoetin beta	6481D	9688
+epoetin beta	6482E	9688
+epoetin beta	6483F	9688
+epoetin beta	6484G	9688
+epoetin beta	6485H	9688
+darbepoetin alfa	6488L	9688
+darbepoetin alfa	6489M	9688
+darbepoetin alfa	6490N	9688
+darbepoetin alfa	6491P	9688
+darbepoetin alfa	6492Q	9688
+darbepoetin alfa	6493R	9688
+methoxy polyethylene glycol-epoetin beta	9574X	9688
+methoxy polyethylene glycol-epoetin beta	9575Y	9688
+methoxy polyethylene glycol-epoetin beta	9576B	9688
+methoxy polyethylene glycol-epoetin beta	9577C	9688
+methoxy polyethylene glycol-epoetin beta	9578D	9688
+methoxy polyethylene glycol-epoetin beta	9579E	9688
+methoxy polyethylene glycol-epoetin beta	9580F	9688
+everolimus	9582H	9691
+everolimus	9582H	9693
+epoetin lambda	9588P	9688
+epoetin lambda	9590R	9688
+epoetin lambda	9593X	9688
+epoetin lambda	9595B	9688
+apomorphine	9607P	11445
+ibandronate	9619G	9333
+sevelamer	9620H	9762
+natalizumab	9624M	13625
+clozapine	9632Y	9490
+lanthanum	9635D	9762
+lanthanum	9636E	9762
+lanthanum	9637F	9762
+deferiprone	9638G	9286
+deferiprone	9638G	9228
+apomorphine	9640J	11445
+valganciclovir	9675F	9316
+tacrolimus	9681M	9697
+tacrolimus	9682N	9697
+tacrolimus	9683P	9697
+thalidomide	9684Q	9290
+epoetin lambda	9685R	9688
+epoetin lambda	9686T	9688
+epoetin lambda	9687W	9688
+epoetin lambda	9688X	9688
+levodopa + carbidopa	9744W	10363
+sirolimus	9748C	9914
+filgrastim	2747N	8674
+filgrastim	2747N	8667
+filgrastim	2747N	8672
+filgrastim	2747N	8668
+filgrastim	2747N	8671
+filgrastim	2747N	8696
+filgrastim	2747N	8669
+filgrastim	2747N	8670
+filgrastim	2747N	8673
+filgrastim	2733W	8674
+filgrastim	2733W	8667
+filgrastim	2733W	8672
+filgrastim	2733W	8668
+filgrastim	2733W	8671
+filgrastim	2733W	8696
+filgrastim	2733W	8669
+filgrastim	2733W	8670
+filgrastim	2733W	8673
+infliximab	10057H	9632
+plerixafor	10084R	9329
+alemtuzumab	10243D	9636
+alemtuzumab	10246G	9589
+sucroferric oxyhydroxide	10230K	9762
+anakinra	10263E	5450
+deferasirox	11236J	9302
+deferasirox	11236J	9222
+deferasirox	11236J	9258
+octreotide	10566D	9262
+octreotide	10566D	9313
+octreotide	10566D	9288
+octreotide	10549F	9262
+octreotide	10549F	9313
+octreotide	10549F	9288
+octreotide	10558Q	9262
+octreotide	10558Q	9313
+octreotide	10558Q	9288
+deferasirox	11238L	9302
+deferasirox	11238L	9222
+deferasirox	11238L	9258
+deferasirox	11243R	9302
+deferasirox	11243R	9222
+deferasirox	11243R	9258
+lipegfilgrastim	10931H	9224
+lipegfilgrastim	10931H	9322
+tacrolimus	10875J	9697
+tacrolimus	10879N	9697
+apomorphine	10971K	11445
+apomorphine	11083H	10830
+ocrelizumab	11237K	9523
+ocrelizumab	11237K	9635
+baclofen	11128Q	9488
+baclofen	11128Q	9637
+baclofen	11128Q	9489
+baclofen	11128Q	9524
+baclofen	11194E	9562
+baclofen	11194E	9525
+baclofen	11194E	9638
+baclofen	11194E	9606
+deferiprone	11724C	9623
+deferiprone	11724C	9590
+apomorphine	11475Y	10830
+infliximab	11396T	12051
+clozapine	11415T	9490
+apomorphine	11688E	10830
+baclofen	11420C	9488
+baclofen	11420C	9637
+baclofen	11420C	9489
+baclofen	11420C	9524
+infliximab	11432Q	9732
+infliximab	11450P	9775
+infliximab	11488P	9621
+infliximab	11483J	12067
+deferasirox	11548T	9302
+deferasirox	11548T	9222
+deferasirox	11548T	9258
+deferasirox	11510T	9302
+deferasirox	11510T	9222
+deferasirox	11510T	9258
+deferasirox	11547R	9302
+deferasirox	11547R	9222
+deferasirox	11547R	9258
+lanreotide	11527Q	10077
+infliximab	11515C	9472
+infliximab	11595G	9602
+infliximab	11595G	9584
+sevelamer	11838C	9762
+octreotide	11894B	10077
+infliximab	11796W	12074
+tacrolimus	11920J	9697
+levodopa + carbidopa	11910W	10161
+cinacalcet	11891W	10063
+cinacalcet	11889R	10063
+cinacalcet	11888Q	10063
+methoxsalen	12162D	10971
+methoxsalen	12173Q	10989
+adalimumab	12368Y	14107
+adalimumab	12384T	14107
+adalimumab	12349Y	14107
+methoxsalen	12855N	12579
+methoxsalen	12839R	12567
+azacitidine	13040H	13012
+tocilizumab	13329M	14179
+tocilizumab	13323F	14179
+tocilizumab	13315T	14179
+tocilizumab	13312P	14082
+tocilizumab	13338B	14082
+adalimumab	13229G	14107
+adalimumab	13210G	14107
+ruxolitinib	13239T	13911
+ruxolitinib	13236P	13911
+ruxolitinib	13244C	13876
+ruxolitinib	13244C	13877
+ruxolitinib	13231J	13876
+ruxolitinib	13231J	13877
+adalimumab	13292N	14107
+tocilizumab	13311N	14082
+etanercept	13295R	14155
+etanercept	13326J	14155
+etanercept	13332Q	14155
+nafarelin	5815C	5046
+corifollitropin alfa	5816D	5009
+corifollitropin alfa	5817E	5009
+choriogonadotropin alfa	6182J	14124
+follitropin beta	6335K	5027
+follitropin beta	6336L	5027
+progesterone	6366C	5045
+follitropin alfa	6431L	5027
+follitropin alfa	6432M	5027
+follitropin alfa	6433N	5027
+follitropin beta	6464F	5027
+ganirelix	9583J	5046
+ganirelix	9584K	5046
+cetrorelix	9599F	5046
+progesterone	9608Q	4997
+progesterone	9609R	4997
+human menopausal gonadotrophin	2036E	5027
+human menopausal gonadotrophin	2038G	5027
+progesterone	10116K	4997
+lutropin alfa	10465T	5251
+progesterone	10930G	4997
+follitropin alfa	10861P	5027
+follitropin alfa	10873G	5027
+follitropin alfa	10872F	5027
+follitropin alfa	10866X	5027
+follitropin alfa	10867Y	5027
+triptorelin	10907C	5046
+follitropin delta	11430N	5027
+follitropin delta	11431P	5027
+follitropin delta	11414R	5027
+follitropin alfa + lutropin alfa	11667C	5250
+follitropin alfa	12779N	5027
+follitropin alfa	12800Q	5027
+follitropin alfa	12770D	5027
+human chorionic gonadotrophin	12879W	6991
+human chorionic gonadotrophin	12851J	6991
+cetuximab	7223E	4794
+cetuximab	7223E	4785
+cladribine	7225G	6265
+cetuximab	7240C	4788
+cetuximab	7242E	12045
+cetuximab	7242E	4908
+nanoparticle albumin-bound paclitaxel	7270P	6106
+nanoparticle albumin-bound paclitaxel	7270P	6119
+cetuximab	7273T	12016
+ipilimumab	2638W	6562
+ipilimumab	2638W	6585
+ipilimumab	2638W	13841
+eribulin	10140Q	4649
+panitumumab	10069Y	12066
+panitumumab	10069Y	12035
+panitumumab	10508C	5526
+panitumumab	10508C	5452
+cetuximab	10265G	4912
+nanoparticle albumin-bound paclitaxel	10150F	4657
+arsenic	7241D	4793
+arsenic	7241D	5997
+cabazitaxel	7236W	13207
+pembrolizumab	10475H	10696
+pembrolizumab	10424P	10705
+obinutuzumab	10418H	11052
+bendamustine	10763L	7972
+bendamustine	10763L	7943
+bendamustine	10763L	7944
+arsenic	10699D	6018
+nivolumab	10748Q	9298
+nivolumab	10748Q	13839
+nivolumab	10748Q	13863
+nivolumab	11143L	13445
+nivolumab	10775D	10155
+eribulin	11199K	7258
+eribulin	11199K	7280
+carfilzomib	11230C	12934
+carfilzomib	11230C	12930
+nivolumab	11159H	9312
+nivolumab	11157F	9299
+nivolumab	11152Y	11477
+pembrolizumab	11352L	13726
+pembrolizumab	11352L	13741
+pembrolizumab	13114F	13735
+pembrolizumab	13114F	13731
+pembrolizumab	13114F	13738
+nivolumab	11434T	9216
+nivolumab	11425H	9252
+obinutuzumab	12193R	11015
+pembrolizumab	11632F	13739
+pembrolizumab	11632F	13736
+atezolizumab	11309F	13443
+pembrolizumab	11492W	13431
+pembrolizumab	11492W	13432
+atezolizumab	11297N	10297
+avelumab	11679Q	8947
+avelumab	11685B	10023
+avelumab	13123Q	13313
+avelumab	13123Q	13303
+nivolumab	11532Y	13853
+nivolumab	11532Y	13852
+ipilimumab	11644W	8555
+nivolumab	11627Y	14001
+nivolumab	11626X	9321
+pembrolizumab	13267G	13948
+pembrolizumab	13267G	13949
+pembrolizumab	13267G	13986
+pembrolizumab	12126F	13727
+pembrolizumab	12126F	13732
+atezolizumab	12167J	10939
+atezolizumab	12155R	10917
+atezolizumab	11792P	13448
+atezolizumab	11792P	10125
+durvalumab	11911X	10126
+durvalumab	11911X	12271
+atezolizumab	11928T	10521
+atezolizumab	11927R	10206
+atezolizumab	11801D	10216
+pembrolizumab	13287H	14027
+pembrolizumab	13287H	14044
+pembrolizumab	13287H	14028
+atezolizumab	12076N	10509
+atezolizumab	11940K	13446
+atezolizumab	11957H	10215
+pembrolizumab	12121Y	13436
+pembrolizumab	12121Y	13437
+pembrolizumab	12122B	10689
+pembrolizumab	12123C	10701
+atezolizumab	12098R	10257
+carfilzomib	12243J	12694
+carfilzomib	12243J	12849
+atezolizumab	12159Y	10972
+avelumab	13132E	13290
+ipilimumab	12304N	11478
+ipilimumab	12304N	11391
+nivolumab	12315E	13433
+nivolumab	12315E	11468
+nivolumab	12574T	11985
+ipilimumab	12601F	11930
+cetuximab	12821T	12483
+cetuximab	12817N	12470
+sacituzumab govitecan	12944G	12656
+sacituzumab govitecan	12965J	12669
+nivolumab	13117J	13888
+cemiplimab	13160P	13766
+cemiplimab	13162R	13373
+atezolizumab	13172G	13442
+atezolizumab	13170E	13451
+cetuximab	4312Y	4794
+cetuximab	4312Y	4785
+cladribine	4326Q	6265
+arsenic	4371C	4793
+arsenic	4371C	5997
+cabazitaxel	4376H	13207
+cetuximab	4435K	4788
+cetuximab	4436L	12045
+cetuximab	4436L	4908
+nanoparticle albumin-bound paclitaxel	4531L	6106
+nanoparticle albumin-bound paclitaxel	4531L	6119
+cetuximab	4731B	12016
+ipilimumab	2641B	6562
+ipilimumab	2641B	6585
+ipilimumab	2641B	13841
+eribulin	10144X	4649
+panitumumab	10082P	12066
+panitumumab	10082P	12035
+panitumumab	10513H	5526
+panitumumab	10513H	5452
+cetuximab	10262D	4912
+nanoparticle albumin-bound paclitaxel	10165B	4657
+pembrolizumab	10436G	10705
+pembrolizumab	10493G	10696
+obinutuzumab	10407R	11052
+bendamustine	10760H	7972
+bendamustine	10760H	7943
+bendamustine	10760H	7944
+arsenic	10691Q	6018
+nivolumab	10745M	9298
+nivolumab	10745M	13839
+nivolumab	10745M	13863
+nivolumab	11158G	13445
+nivolumab	10764M	10155
+nivolumab	13121N	13888
+eribulin	11212D	7258
+eribulin	11212D	7280
+carfilzomib	11229B	12934
+carfilzomib	11229B	12930
+nivolumab	11150W	9312
+nivolumab	11160J	9299
+nivolumab	11153B	11477
+pembrolizumab	11330H	13726
+pembrolizumab	11330H	13741
+pembrolizumab	13131D	13735
+pembrolizumab	13131D	13731
+pembrolizumab	13131D	13738
+nivolumab	11435W	9216
+nivolumab	11411N	9252
+obinutuzumab	12204H	11015
+pembrolizumab	11646Y	13739
+pembrolizumab	11646Y	13736
+atezolizumab	11284X	13443
+pembrolizumab	11494Y	13431
+pembrolizumab	11494Y	13432
+atezolizumab	11277M	10297
+avelumab	11695M	8947
+avelumab	11671G	10023
+nivolumab	11543M	13853
+nivolumab	11543M	13852
+ipilimumab	11628B	8555
+nivolumab	11636K	14001
+nivolumab	11642R	9321
+pembrolizumab	13254N	13948
+pembrolizumab	13254N	13949
+pembrolizumab	13254N	13986
+atezolizumab	12171N	10939
+atezolizumab	12168K	10917
+atezolizumab	11807K	13448
+atezolizumab	11807K	10125
+durvalumab	11915D	10126
+durvalumab	11915D	12271
+atezolizumab	11929W	10521
+atezolizumab	11926Q	10206
+atezolizumab	11802E	10216
+atezolizumab	11931Y	13446
+atezolizumab	11930X	10215
+pembrolizumab	13286G	14027
+pembrolizumab	13286G	14044
+pembrolizumab	13286G	14028
+atezolizumab	12078Q	10509
+pembrolizumab	12129J	13727
+pembrolizumab	12129J	13732
+pembrolizumab	12119W	13436
+pembrolizumab	12119W	13437
+pembrolizumab	12128H	10689
+pembrolizumab	12124D	10701
+atezolizumab	12097Q	10257
+carfilzomib	12244K	12694
+carfilzomib	12244K	12849
+atezolizumab	12174R	10972
+ipilimumab	12322M	11478
+ipilimumab	12322M	11391
+nivolumab	12323N	13433
+nivolumab	12323N	11468
+nivolumab	12602G	11985
+ipilimumab	12583G	11930
+cetuximab	12820R	12483
+cetuximab	12816M	12470
+avelumab	13122P	13313
+avelumab	13122P	13303
+avelumab	13126W	13290
+sacituzumab govitecan	12966K	12656
+sacituzumab govitecan	12945H	12669
+cemiplimab	13169D	13766
+cemiplimab	13161Q	13373
+atezolizumab	13174J	13442
+atezolizumab	13173H	13451
+aprepitant	2550F	4223
+aprepitant	2550F	4216
+aprepitant	2550F	6464
+aprepitant	2550F	6383
+netupitant + palonosetron	10714X	5991
+netupitant + palonosetron	10714X	5994
+netupitant + palonosetron	10714X	6937
+netupitant + palonosetron	10714X	6879
+trastuzumab	10743K	10212
+trastuzumab	10817H	9462
+trastuzumab	10811B	9353
+fosaprepitant	11103J	6886
+fosaprepitant	11103J	6891
+fosaprepitant	11103J	6887
+fosaprepitant	11103J	6852
+botulinum toxin type A	10997T	5221
+botulinum toxin type A	10998W	5359
+botulinum toxin type A	10998W	8822
+botulinum toxin type A	11023E	5406
+botulinum toxin type A	10999X	5178
+botulinum toxin type A	10999X	8929
+botulinum toxin type A	11016T	5408
+botulinum toxin type A	10993N	5409
+botulinum toxin type A	11000Y	11784
+clostridium botulinum type A toxin-haemagglutinin complex	10987G	5405
+clostridium botulinum type A toxin-haemagglutinin complex	10981Y	5359
+clostridium botulinum type A toxin-haemagglutinin complex	10981Y	8822
+clostridium botulinum type A toxin-haemagglutinin complex	10982B	9547
+clostridium botulinum type A toxin-haemagglutinin complex	11007H	5406
+clostridium botulinum type A toxin-haemagglutinin complex	11022D	5405
+clostridium botulinum type A toxin-haemagglutinin complex	11006G	5359
+clostridium botulinum type A toxin-haemagglutinin complex	11006G	8822
+clostridium botulinum type A toxin-haemagglutinin complex	10988H	9547
+clostridium botulinum type A toxin-haemagglutinin complex	11015R	5406
+incobotulinumtoxinA	10994P	5360
+incobotulinumtoxinA	11005F	5222
+botulinum toxin type A	11004E	6953
+clostridium botulinum type A toxin-haemagglutinin complex	11831Q	9334
+clostridium botulinum type A toxin-haemagglutinin complex	11857C	9334
+botulinum toxin type A	11751L	9334
+incobotulinumtoxinA	12087E	9547
+clostridium botulinum type A toxin-haemagglutinin complex	12214W	5178
+clostridium botulinum type A toxin-haemagglutinin complex	12214W	8929
+clostridium botulinum type A toxin-haemagglutinin complex	12178Y	5178
+clostridium botulinum type A toxin-haemagglutinin complex	12178Y	8929
+botulinum toxin type A	12017L	9547
+hyoscine butylbromide	5317W	6207
+benzydamine	5385K	6197
+macrogol-3350 + sodium chloride + bicarbonate + potassium chloride	5389P	6171
+methylnaltrexone	5423K	6180
+methylnaltrexone	5424L	6180
+macrogol-3350	5426N	6170
+macrogol-3350 + sodium chloride + bicarbonate + potassium chloride	10127B	6171
+metoclopramide	10762K	6084
+hydromorphone	12497R	11697
+hydromorphone	12484C	11697
+hydromorphone	12515Q	11697
+hydromorphone	12493M	11697
+hydromorphone	12531M	11697
+morphine	12502B	11697
+morphine	12494N	11697
+morphine	12470H	11697
+morphine	12537W	11697
+morphine	12549L	11697
+morphine	12472K	11697
+morphine	12499W	11697
+morphine	12548K	11697
+morphine	12503C	11697
+hydromorphone	12565H	11697
+trastuzumab	7264H	10296
+trastuzumab	7265J	10213
+trastuzumab	7266K	10293
+trastuzumab	7267L	10294
+trastuzumab	10589H	9573
+trastuzumab	10402L	9353
+trastuzumab	10383L	9349
+trastuzumab	10597R	9571
+trastuzumab	4632T	10296
+trastuzumab	4639E	10213
+trastuzumab	4650R	10293
+trastuzumab	4703M	10294
+trastuzumab	10391X	9353
+trastuzumab	10401K	9349
+trastuzumab	10581X	9573
+trastuzumab	10588G	9571
+nevirapine	10303G	4526
+nevirapine	10303G	4454
+nevirapine	10304H	4512
+nevirapine	10304H	4454
+nevirapine	10319D	4512
+nevirapine	10319D	4454
+abacavir	10294T	4512
+abacavir	10294T	4454
+abacavir + lamivudine	10357D	4527
+abacavir + lamivudine	10357D	4528
+abacavir + lamivudine + zidovudine	10305J	4495
+abacavir + lamivudine + zidovudine	10305J	4480
+lamivudine	10320E	4512
+lamivudine	10320E	4454
+atazanavir	10321F	4512
+atazanavir	10321F	4454
+lamivudine + zidovudine	10284G	4512
+lamivudine + zidovudine	10284G	4454
+lamivudine	10348P	4512
+lamivudine	10348P	4454
+atazanavir	10349Q	4512
+atazanavir	10349Q	4454
+lamivudine	10311Q	4512
+lamivudine	10311Q	4454
+darunavir	10329P	5094
+darunavir	10367P	4313
+efavirenz	10336B	4512
+efavirenz	10336B	4454
+lopinavir + ritonavir	10285H	4512
+lopinavir + ritonavir	10285H	4454
+efavirenz	10366N	4512
+efavirenz	10366N	4454
+lopinavir + ritonavir	10272P	4512
+lopinavir + ritonavir	10272P	4454
+lopinavir + ritonavir	10327M	4512
+lopinavir + ritonavir	10327M	4454
+raltegravir	10326L	4275
+raltegravir	10326L	4274
+etravirine	10301E	5014
+raltegravir	10299C	4275
+raltegravir	10299C	4274
+fosamprenavir	10337C	4512
+fosamprenavir	10337C	4454
+ganciclovir	10328N	5000
+raltegravir	10286J	4512
+raltegravir	10286J	4454
+rilpivirine	10298B	4512
+rilpivirine	10298B	4454
+ritonavir	10273Q	4512
+ritonavir	10273Q	4454
+saquinavir	10335Y	4512
+saquinavir	10335Y	4454
+tenofovir disoproxil + emtricitabine	10347N	6985
+tenofovir disoproxil + emtricitabine	10347N	6986
+tenofovir disoproxil	10310P	6998
+tenofovir disoproxil	10310P	6982
+tenofovir disoproxil	10310P	6980
+tenofovir disoproxil	10310P	6992
+tenofovir disoproxil	10310P	6983
+tenofovir disoproxil	10310P	6984
+valganciclovir	10306K	4980
+zidovudine	10266H	4512
+zidovudine	10266H	4454
+zidovudine	10360G	4512
+zidovudine	10360G	4454
+zidovudine	10361H	4512
+zidovudine	10361H	4454
+dolutegravir	10283F	4512
+dolutegravir	10283F	4454
+dolutegravir + abacavir + lamivudine	10345L	9981
+dolutegravir + abacavir + lamivudine	10345L	10116
+entecavir	10279B	4993
+entecavir	10279B	5036
+clozapine	10302F	4998
+clozapine	10288L	4998
+clozapine	10289M	4998
+clozapine	10358E	4998
+clozapine	10341G	4998
+adefovir	10290N	4490
+adefovir	10290N	4510
+entecavir	10353X	5044
+entecavir	10353X	5037
+lamivudine	10315X	4993
+lamivudine	10315X	5036
+maraviroc	10318C	5008
+maraviroc	10355B	5008
+valganciclovir	10277X	4980
+darunavir + cobicistat	10903W	6413
+darunavir + cobicistat	10903W	6428
+darunavir + cobicistat	10903W	6377
+atazanavir + cobicistat	10692R	4512
+atazanavir + cobicistat	10692R	4454
+emtricitabine + tenofovir alafenamide	11099E	4512
+emtricitabine + tenofovir alafenamide	11099E	4454
+emtricitabine + tenofovir alafenamide	11113X	4512
+emtricitabine + tenofovir alafenamide	11113X	4454
+tenofovir alafenamide + emtricitabine + elvitegravir + cobicistat	11114Y	4522
+tenofovir alafenamide + emtricitabine + elvitegravir + cobicistat	11114Y	4470
+emtricitabine + rilpivirine + tenofovir alafenamide	11104K	4522
+emtricitabine + rilpivirine + tenofovir alafenamide	11104K	4470
+raltegravir	11248B	4512
+raltegravir	11248B	4454
+tenofovir disoproxil	11142K	6998
+tenofovir disoproxil	11142K	6982
+tenofovir disoproxil	11142K	6980
+tenofovir disoproxil	11142K	6992
+tenofovir disoproxil	11142K	6983
+tenofovir disoproxil	11142K	6984
+tenofovir disoproxil	11155D	6998
+tenofovir disoproxil	11155D	6982
+tenofovir disoproxil	11155D	6980
+tenofovir disoproxil	11155D	6992
+tenofovir disoproxil	11155D	6983
+tenofovir disoproxil	11155D	6984
+tenofovir disoproxil + emtricitabine	11146P	6985
+tenofovir disoproxil + emtricitabine	11146P	6986
+tenofovir disoproxil + emtricitabine	11149T	6985
+tenofovir disoproxil + emtricitabine	11149T	6986
+lanreotide	11289E	7532
+lanreotide	11289E	7509
+lanreotide	11315M	7532
+lanreotide	11315M	7509
+lanreotide	11316N	7532
+lanreotide	11316N	7509
+dolutegravir + rilpivirine	11540J	8214
+dolutegravir + rilpivirine	11540J	8226
+clozapine	11422E	4998
+octreotide	11501H	8197
+octreotide	11501H	8208
+octreotide	11501H	8198
+octreotide	11537F	8197
+octreotide	11537F	8208
+octreotide	11537F	8198
+octreotide	11512X	8197
+octreotide	11512X	8208
+octreotide	11512X	8198
+bictegravir + emtricitabine + tenofovir alafenamide	11649D	4522
+bictegravir + emtricitabine + tenofovir alafenamide	11649D	4470
+lanreotide	11736Q	10075
+dolutegravir + lamivudine	11843H	9987
+dolutegravir + lamivudine	11843H	11066
+octreotide	11896D	10075
+tenofovir disoproxil + emtricitabine + efavirenz	11732L	4522
+tenofovir disoproxil + emtricitabine + efavirenz	11732L	4470
+darunavir + cobicistat + emtricitabine + tenofovir alafenamide	11955F	10324
+darunavir + cobicistat + emtricitabine + tenofovir alafenamide	11955F	10317
+tenofovir disoproxil	11982P	10362
+tenofovir disoproxil	11992E	10362
+tenofovir disoproxil	11978K	10362
+darunavir	12111K	4313
+cabotegravir	12939B	12619
+cabotegravir (&) rilpivirine	12937X	12636
+tenofovir disoproxil + emtricitabine	12506F	6985
+tenofovir disoproxil + emtricitabine	12506F	6986
+darunavir	12946J	5094
+buprenorphine	13320C	14138
+buprenorphine	13302D	14139
+buprenorphine	13297W	14075
+buprenorphine	13303E	14139
+buprenorphine + naloxone	13322E	14074
+buprenorphine	13336X	14157
+buprenorphine	13296T	14075
+buprenorphine	13327K	14138
+buprenorphine	13314R	14075
+buprenorphine	13310M	14157
+buprenorphine	13298X	14139
+buprenorphine + naloxone	13321D	14074
+buprenorphine	13337Y	14157
+buprenorphine	13328L	14075
+buprenorphine	13309L	14139
+methadone	13333R	14178
+methadone	13334T	14178
