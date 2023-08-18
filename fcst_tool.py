@@ -84,9 +84,17 @@ df["MONTH_OF_SUPPLY"] = pd.to_datetime(df.MONTH_OF_SUPPLY, format="%Y%m")
 
 list_of_drugs = np.sort(df.DRUG_NAME.unique())
 
-# streamlit dropdown
+# drug dropdown
 drug_name = st.sidebar.multiselect("Drug name", list_of_drugs, default="ABEMACICLIB")
 st.sidebar.write("##")
+
+df2 = df[df.DRUG_NAME.isin(drug_name)]
+list_of_items = np.sort(df2.ITEM_CODE.unique())
+
+# item code dropdown
+item_code = st.sidebar.multiselect("Item code", list_of_items, default=list_of_items)
+st.sidebar.write("##")
+
 lbp = st.sidebar.slider(
     label="Adjust lookback period to base forecast on",
     min_value=6,
@@ -95,15 +103,14 @@ lbp = st.sidebar.slider(
     value=12,
 )
 
-
-if not (drug_name):
-    st.text("Select a drug(s) from the dropdown on the left")
+if not (drug_name and item_code):
+    st.text("Select a drug(s) and item code(s) from the dropdown on the left")
 else:
     names = ", ".join(drug_name)
     st.markdown("*Showing trends for* " + ":red[" + names + "]")
     st.write("#")
 
-    df2 = df[df.DRUG_NAME.isin(drug_name)]
+    df2 = df2[df2.ITEM_CODE.isin(item_code)]
 
     df2 = df2.groupby("MONTH_OF_SUPPLY", as_index=False)["PRESCRIPTIONS"].sum()
 
