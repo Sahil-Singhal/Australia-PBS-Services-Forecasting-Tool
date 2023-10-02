@@ -2,7 +2,7 @@
 #### An easy-to-use tool to forecast prescriptions for any PBS listed drug in Australia
 07.Aug.2023
 
-[Link to the tool] (https://australia-pbs-services-forecasting-tool-btl054j9a7f.streamlit.app/)
+[Link to the tool](https://australia-pbs-services-forecasting-tool-btl054j9a7f.streamlit.app/)
 
 Forecasting is complex. It is, usually, left to external consultants, seasoned analysts or those who are skilled in statistical tools and techniques. Forecasting models thus developed are difficult to explain to business leaders. On top of this, they break down all the time, leading to maintenance headaches. 
 This tool helps business managers, product managers and analysts from the pharmaceutical industry visualize and analyze past and future prescription trends of any PBS listed drug in Australia. It offers a quick way to challenge existing internal forecasts about product and market growth. 
