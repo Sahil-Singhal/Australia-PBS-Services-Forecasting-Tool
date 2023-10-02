@@ -6,10 +6,6 @@ Forecasting is complex. It is, usually, left to external consultants, seasoned a
 This tool helps business managers, product managers and analysts from the pharmaceutical industry visualize and analyze past and future prescription trends of any PBS listed drug in Australia. It offers a quick way to challenge existing internal forecasts about product and market growth. 
 While the data as well as the forecasting techniques used in this tool have been available for a long time, few organizations make good use of either. 
 
-“This tool makes it so easy for me to assess how my drug has been performing vis-a-vis the market for free.” 
-
-“I have been able to use this tool to adjust and explain my forecasts when presenting to business leaders. I do not need to know Excel or any fancy software to use this."   
-
 Visit the URL linked below to start navigating the tool. It is free to use and available at all times.
 
 ### FAQs
